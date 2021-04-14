@@ -1,0 +1,1 @@
+Докажите, что $a=\sqrt{9-\sqrt{77}}\sqrt{2}\left( \sqrt{11}-\sqrt{7} \right)\left( 9+\sqrt{77} \right)$ — целое число.

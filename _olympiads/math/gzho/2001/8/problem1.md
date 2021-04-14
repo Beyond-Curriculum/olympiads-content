@@ -1,0 +1,1 @@
+Пусть $S\left( n \right)$ — сумма цифр числа $n$. Найдите все $n$, для которых  $n+S\left( n \right)+S\left( S\left( n \right) \right)+\ldots +S\left( S\left( \ldots S\left( n \right) \right) \right)=2000000$.  В  левой части равенства число слагаемых равно $n$).

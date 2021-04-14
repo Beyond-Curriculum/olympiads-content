@@ -1,0 +1,2 @@
+Докажите, что при любом натуральном $n$ произведение $n$ чисел 
+$$\left( 1+\frac{1}{3} \right)\left( 1+\frac{1}{8} \right)\left( 1+\frac{1}{15} \right)\left( 1+\frac{1}{24} \right)\cdot \ldots \cdot \left( 1+\frac{1}{{{n}^{2}}+2n} \right)$$ не превосходит 2.

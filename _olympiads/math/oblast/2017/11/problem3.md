@@ -1,0 +1,1 @@
+Найти все функции $f:\mathbb{R}\to \mathbb{R}$, удовлетворяющие соотношению $\left( x-2 \right)f\left( y \right)+f\left( y+2f\left( x \right) \right)=f\left( x+yf\left( x \right) \right)$ при всех $x,y\in \mathbb{R}$.

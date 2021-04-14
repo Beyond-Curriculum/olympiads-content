@@ -1,0 +1,1 @@
+Найдите количество решений уравнения: $\left[ \dfrac{a}{2} \right]+\left[ \dfrac{a}{3} \right]+\left[ \dfrac{a}{5} \right]=a.$

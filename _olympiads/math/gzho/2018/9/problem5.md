@@ -1,0 +1,1 @@
+Докажите равенство $\sum\limits_{n = 1}^{9999} {\dfrac{1}{{\left( {\sqrt n  + \sqrt {n + 1} } \right)\left( {\sqrt[4]{n} + \sqrt[4]{{n + 1}}} \right)}} = 9} .$

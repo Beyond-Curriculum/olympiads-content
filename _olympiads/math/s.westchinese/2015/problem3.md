@@ -1,0 +1,2 @@
+Пусть $n \ge 2$ — натуральное число и $x_1,x_2,\ldots,x_n $ — положительные действительные такие, 
+что $\sum\limits_{i = 1}^n {{x_i}}  = 1.$ Докажите, что $\left( {\sum\limits_{i = 1}^n {\frac{1}{{1 - {x_i}}}} } \right)\left( {\sum\limits_{1 \le i < j \le n} {{x_i}} {x_j}} \right) \le \frac{n}{2}.$

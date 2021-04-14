@@ -1,0 +1,1 @@
+Точка $P$ лежит внутри $\Delta ABC$, $\omega $ — описанная окружность $\Delta ABC $. $BP \cap \omega = \left\{ B,B_1 \right\}$, $CP \cap \omega = \left\{ C,C_1 \right\}$, $PE \bot AC$, $PF \bot AB$. Радиусы вписанной и описанной окружностей $\Delta ABC $ обозначим через $r,R$. Докажите, что $\frac{{EF}}{{{B_1}{C_1}}} \geq \frac{r}{R}$.

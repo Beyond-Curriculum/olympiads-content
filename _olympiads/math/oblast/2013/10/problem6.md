@@ -1,0 +1,1 @@
+В выпуклом пятиугольнике $ABCDE$ $AB=BC$ и $\angle BCD=\angle EAB=90^\circ$. Внутри пятиугольника взята такая точка $X$, что $AX\perp BE$ и $CX\perp BD$. Докажите, что $BX\perp DE$.

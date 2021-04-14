@@ -1,0 +1,1 @@
+Про  числа  $a$, $b$  и $c$  известно,  $\dfrac{a}{b+c-a}=\dfrac{b}{a+c-b}=\dfrac{c}{a+b-c}.$ Какие  значения  может  принимать  выражение $\dfrac{\left( a+b \right)\left( b+c \right)\left( a+c \right)}{abc}$?

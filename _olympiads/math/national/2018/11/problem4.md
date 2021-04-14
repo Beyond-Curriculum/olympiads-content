@@ -1,0 +1,1 @@
+Докажите, что для любых действительных чисел $a,b,c,d\in(0,1)$ выполняется неравенство $\left(ab-cd\right)\left(ac+bd\right)\left(ad-bc\right)+\min{\left(a,b,c,d\right)} < 1.$

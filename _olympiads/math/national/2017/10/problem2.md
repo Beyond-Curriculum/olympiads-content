@@ -1,0 +1,2 @@
+Найдите все функции $f:\mathbb{R}\to \mathbb{R} $ такие, что 
+$\left| y-f\left( f\left( x \right) \right)\left| \ge  \right|f{{\left( x \right)}^{2}}+xf\left( y \right) \right|$ для любых действительных $x$ и $y$. Здесь $\mathbb{R}$ — множество действительных чисел.

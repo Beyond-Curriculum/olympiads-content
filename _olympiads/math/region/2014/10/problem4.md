@@ -1,0 +1,2 @@
+Функция $f:\mathbb{R}\backslash \left\{ 0,1 \right\}\to \mathbb{R}$ задается следующим образом: 
+$f\left( x \right)=\dfrac{{{\left( {{x}^{2}}-x+1 \right)}^{3}}}{{{x}^{2}}{{\left( x-1 \right)}^{2}}}$. Докажите, что $f\left( x \right)=f\left( 1-x \right)=f\left( \dfrac{1}{x} \right)$ для всех $x\in \mathbb{R}\backslash \left\{ 0,1 \right\}$.

@@ -1,0 +1,1 @@
+Пусть  даны  натуральные  числа  $m$   и  $n$   такие,  что НОД$\left( m,n \right)=1$. Докажите, что число  $\dfrac{\left( m+n-1 \right)!}{n!\left( m-1 \right)!}$ делится на $m$ ($k!=1\cdot 2\cdot \ldots \cdot k$).

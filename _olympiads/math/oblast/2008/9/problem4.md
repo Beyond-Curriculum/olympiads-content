@@ -1,0 +1,1 @@
+Пусть $M$ — точка внутри треугольника $ABC$. Известно, что  $\angle BAC=70^\circ $,  $\angle ABC=80^\circ $,  $\angle ACM=10^\circ $,  $\angle CBM=20^\circ $. Докажите, что  $AB=MC$.

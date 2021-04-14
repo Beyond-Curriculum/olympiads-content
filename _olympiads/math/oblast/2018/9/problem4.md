@@ -1,0 +1,1 @@
+Найдите все функции $f:\mathbb{N}\to \mathbb{N}$ такие, что при всех $m,n\in \mathbb{N}$ $f\left( m-n+f(n) \right)=f(m)+f(n).$

@@ -1,0 +1,2 @@
+$n$ — целое число такое, что $n \ge 2$. Найдите наименьшее действительное число $\lambda$ такое, что: 
+<br/>&nbsp;&nbsp;&nbsp;для любых действительных $x_1, x_2, \ldots, x_n \in [0,1]$, существует целые $\varepsilon_1, \varepsilon_2, \ldots, \varepsilon_n \in \{ 0,1\}$, т.ч. неравенство $\left\vert \sum^j_{k=i} (\varepsilon_k-x_k)\right\vert\le \lambda$ достигается для всех пар целых $(i,j),$ т.ч.  $1 \le i \le j \le n.$

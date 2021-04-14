@@ -1,0 +1,1 @@
+Пусть $a_1,a_2,\ldots,a_n$ — неотрицательные действительные числа и  $S_k= \sum\limits_{i=1}^{k}a_i $  $(1\le k\le n)$. Докажите неравенство $$\sum\limits_{i=1}^{n}\left(a_iS_i\sum\limits_{j=i}^{n}a^2_j\right)\le \sum\limits_{i=1}^{n}\left(a_iS_i\right)^2.$$

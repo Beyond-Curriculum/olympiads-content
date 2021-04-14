@@ -1,0 +1,1 @@
+Точка $M$  — середина стороны $AC$  треугольника $ABC$. Точка $D$ на стороне $BC$ такова, что $\angle BMA=\angle DMC$. Оказалось, что $CD+DM=BM$. Докажите, что $\angle ACB+\angle ABM=\angle BAC$.

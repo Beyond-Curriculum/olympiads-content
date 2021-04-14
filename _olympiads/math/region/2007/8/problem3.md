@@ -1,0 +1,1 @@
+Дан выпуклый четырехугольник $ABCD$, в котором $\angle BAC = 20^\circ $, $\angle CAD = 60^\circ $, $\angle ADB = 50^\circ $ и $\angle BDC = 10^\circ $ . Найдите $\angle ACB$.

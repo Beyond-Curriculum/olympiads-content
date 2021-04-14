@@ -1,0 +1,1 @@
+$\mathbb{N}$ — множество натуральных чисел. Существует ли функция $f: \mathbb{N} \rightarrow \mathbb{N}$ такая, что для любых натуральных $m$ и $n$ выполнено равенство  $f\left(mf\left(n\right)\right)=f\left(m\right)f\left(m+n\right)+n?$

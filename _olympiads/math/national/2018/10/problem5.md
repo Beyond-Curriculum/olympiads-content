@@ -1,0 +1,1 @@
+Докажите, что для любых действительных чисел $a,b,c\in(0,1)$ выполняется неравенство $\left(\sqrt2a-bc\right)\left(\sqrt2b-ca\right)\left(\sqrt2c-ab\right)\le\frac{1}{8}.$

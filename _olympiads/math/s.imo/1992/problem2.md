@@ -1,0 +1,1 @@
+Пусть $\mathbb{R}$ — множество всех действительных чисел. Найти все функции $f:\mathbb{R}\to \mathbb{R}$  такие, что $f\left( {{x}^{2}}+f\left( y \right) \right)=y+{{f}^{2}}\left( x \right)$ для всех $x,y$ из $\mathbb{R}$.

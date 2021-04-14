@@ -1,0 +1,1 @@
+Дан пятиугольник $ABCDE$ такой, что $AB = BC = CD = DE$, $\angle B=96^\circ $ $\angle C= \angle D=108^\circ $. Найдите $\angle E$.

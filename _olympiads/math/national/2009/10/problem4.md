@@ -1,0 +1,2 @@
+Докажите, что для любых положительных чисел $a, b, c$ и $d$ выполнено неравенство
+$$\displaylines{\frac{a^2+b^2+c^2}{ab+bc+cd}+\frac{b^2+c^2+d^2}{bc+cd+da}+\frac{c^2+d^2+a^2}{cd+da+ab}+\frac{d^2+a^2+b^2}{ad+ab+bc} \geq 4.}$$

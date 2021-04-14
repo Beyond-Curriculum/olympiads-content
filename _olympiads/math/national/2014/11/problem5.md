@@ -1,0 +1,1 @@
+Обозначим через $\mathbb{Q} $ множество всех рациональных чисел. Найдите все функции $f:\mathbb{Q}\times \mathbb{Q}\to \mathbb{Q}$, удовлетворяющие для любых рациональных чисел $x,y,z$ равенству $f\left( x,y \right)+f\left( y,z \right)+f\left( z,x \right)=f\left( 0,x+y+z \right).$

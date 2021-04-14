@@ -1,0 +1,1 @@
+Доказать, что если $\sqrt[3]{\mathstrut a}+\sqrt[3]{ \mathstrut b}+\sqrt[3]{ \mathstrut c}=0$, то , то $(a + b + c)^3 = 27abc$.

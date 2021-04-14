@@ -1,0 +1,1 @@
+Найдите первообразную $f\left( x \right) = \dfrac{{x^2 }}{{(x\sin x + \cos x})^2}$.

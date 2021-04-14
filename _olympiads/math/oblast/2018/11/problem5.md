@@ -1,0 +1,1 @@
+Найти все функции $f:\left( 0,+\infty  \right)\to \left( 0,+\infty  \right)$, удовлетворяющие при всех $x,y\in \left( 0,+\infty  \right)$  условию $f(x)f(yf(x))=f\left( x+y \right)$.

@@ -1,0 +1,1 @@
+Найдите все функции $ f: \mathbb{R}\to \mathbb{R}$, такие, что $\left( f(x)+f(z) \right)\left( f(y)+f(t) \right)=f(xy-zt)+f(xt+yz)$ для всех действительных $x,y,z,t$.

@@ -1,0 +1,1 @@
+Докажите, что $x\cos x\leq \frac{\pi^2}{16}$ при $0 \leq x \leq \frac{\pi}{2}$.

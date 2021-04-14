@@ -1,0 +1,2 @@
+Пусть $a$, $b$, $c$ — положительные числа такие, что $abc=1$. Доказать, что 
+$\dfrac{1}{{{a}^{3}}\left( b+c \right)}+\dfrac{1}{{{b}^{3}}\left( c+a \right)}+\dfrac{1}{{{c}^{3}}\left( a+b \right)}\ge \dfrac{3}{2}.$

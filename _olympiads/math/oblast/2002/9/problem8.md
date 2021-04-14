@@ -1,0 +1,1 @@
+В треугольнике $ABC$ $\angle ACB > \angle ABC$. Биссектриса угла $BAC$ пересекает сторону $BC$ в точке $D$. На сторонах $AB$ и $AC$ выбраны точки $E$ и $F$ таким образом, что $\angle EDB = 90^\circ$ и $\angle BED = \angle DEF$. Докажите, что $\angle BAD = \angle FDC$.

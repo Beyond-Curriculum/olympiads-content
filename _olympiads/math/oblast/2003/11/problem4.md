@@ -1,0 +1,2 @@
+Пусть  $S = \{ 1,\;2, \dots  ,\;n\}$. Докажите, что количество всевозможных троек множеств $(A, B, C)$  таких, что  
+$\varnothing  \subseteq A \subseteq B \subseteq C \subseteq S$ и  $\left| B \right| = \frac{{\left| A \right| + \left| C \right|}}{2}$, равно  $C_{2n}^n$. (Здесь  $|X|$ означает количество элементов во множестве $X$, а $C_{2n}^n=\frac{(2n)!}{n!n!}$).

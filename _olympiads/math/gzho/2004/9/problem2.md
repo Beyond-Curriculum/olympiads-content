@@ -1,0 +1,1 @@
+Докажите тождество: $$\cos \dfrac{\pi }{20}\cdot \cos \dfrac{3\pi }{20}\cdot \cos \dfrac{7\pi }{20}\cdot \cos \dfrac{9\pi }{20}+\cos \dfrac{\pi }{15}\cdot \cos \dfrac{2\pi }{15}\cdot \cos \dfrac{4\pi }{15}\cdot \cos \dfrac{8\pi }{15}=0.$$

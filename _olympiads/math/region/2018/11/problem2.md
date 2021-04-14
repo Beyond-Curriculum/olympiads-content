@@ -1,0 +1,1 @@
+Решите уравнение $f\left( 2-x \right)=g\left( x+1 \right)$, где $f(x)$ и $g(x)$ – функции, определённые на $\mathbb{R}$ и при всех $x\in \mathbb{R}$ удовлетворяющие равенствам $2f\left( x+1 \right)-g\left( 3-x \right)=2{{x}^{2}}+11x-4,$ $f\left( 3-x \right)+g\left( x+1 \right)={{x}^{2}}-5x+19.$

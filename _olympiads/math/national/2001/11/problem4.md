@@ -1,0 +1,1 @@
+Найдите все функции $f: \mathbb{R} \rightarrow \mathbb{R} $, удовлетворяющие равенству $f(x^2-y^2)=(x-y)(f(x)+f(y))$ для любых $x, y\in \mathbb{R} $.

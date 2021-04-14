@@ -1,0 +1,2 @@
+Выпуклый четырёхугольник $ABCD$ удовлетворяет условию $AB \cdot CD = BC \cdot  DA.$ Точка $X$ внутри четырёхугольника $ABCD$ такова, что
+$\angle{XAB} = \angle{XCD}$ и $\angle{XBC} = \angle{XDA}$. Докажите, что $\angle{BXA} + \angle{DXC} = 180^\circ$.

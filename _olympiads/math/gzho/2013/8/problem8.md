@@ -1,0 +1,1 @@
+В выпуклом четырехугольнике $ABCD$ выполнены соотношения: $\angle DAB=\angle ABC=60{}^\circ $ и $\angle CAB=\angle CBD$. Докажите, что $AD+CB=AB$.

@@ -1,0 +1,1 @@
+Пусть $ABCDEF$ — выпуклый шестиугольник, в котором $AB=BC=CD$, $DE=EF=FA$ и $\angle BCD=\angle EFA=60{}^\circ $. Пусть $G$ и $H$ — две точки внутри шестиугольника такие, что $\angle AGB=\angle DHE=120{}^\circ $. Доказать, что $AG+GB+GH+DH+HE\ge CF.$

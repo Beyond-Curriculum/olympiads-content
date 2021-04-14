@@ -1,0 +1,1 @@
+Найдите целую часть числа $\frac{1}{{\sqrt 1  + \sqrt 2 }} + \frac{1}{{\sqrt 3  + \sqrt 4 }} + \frac{1}{{\sqrt 5  + \sqrt 6 }} +  \dots   + \frac{1}{{\sqrt {2003}  + \sqrt {2004} }}.$

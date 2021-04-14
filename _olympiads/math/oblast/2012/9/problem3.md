@@ -1,0 +1,1 @@
+Вычислите значение выражения:   $(1+{\mathop{\hbox{tg}}\nolimits} 1^\circ)(1+{\mathop{\hbox{tg}}\nolimits} 2^\circ)\dots  (1+{\mathop{\hbox{tg}}\nolimits} 44^\circ)$.

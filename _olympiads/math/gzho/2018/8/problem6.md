@@ -1,0 +1,1 @@
+Среди чисел $a,$ $b$ и $c$ произведение любых двух не равно третьему числу. Если $a+b+c=1$, то докажите равенство: $$\left( {\frac{1}{{a - bc}} + \frac{1}{{b - ac}} + \frac{1}{{c - ab}}} \right)\left( {a - bc} \right)\left( {b - ac} \right)\left( {c - ab} \right) = 4abc.$$

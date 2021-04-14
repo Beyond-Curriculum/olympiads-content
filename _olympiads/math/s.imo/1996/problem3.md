@@ -1,0 +1,2 @@
+Пусть  $S=\left\{ 0,1,2,3,\ldots  \right\}$ — множество неотрицательных целых чисел. Найти все функции $f$ определенные на $S$  и принимающие свои значения в $S$, такие, 
+что $f\left( m\text{ }+\text{ }f\left( n \right) \right)\text{ }=\text{ }f\left( f\left( m \right) \right)\text{ }+\text{ }f\left( n \right)$ для всех $m,n$ из $S$.

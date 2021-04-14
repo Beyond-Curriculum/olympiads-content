@@ -1,0 +1,1 @@
+Для любых положительных чисел $a$ и $b$ докажите неравенство $\sqrt {ab}  \le \dfrac{1}{3} \cdot \sqrt {\dfrac{{{a^2} + {b^2}}}{2}}  + \dfrac{2}{3} \cdot \dfrac{2}{{\dfrac{1}{a} + \dfrac{1}{b}}}.$

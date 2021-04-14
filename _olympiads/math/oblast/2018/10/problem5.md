@@ -1,0 +1,1 @@
+Найти все функции $f: \mathbb{R}\to \mathbb{R}$  удовлетворяющие при всех $x,y\in \mathbb{R}$  условию $f\left( xf(x)+f(y) \right)={{x}^{2}}+y.$

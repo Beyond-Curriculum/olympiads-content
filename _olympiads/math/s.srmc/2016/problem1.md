@@ -1,0 +1,1 @@
+Пусть $a$, $b$ и $c$ такие действительные числа, что $\left| \left( a-b \right)\left( b-c \right)\left( c-a \right) \right|=1.$ Найдите наименьшее значение выражения $\left| a \right|+\left| b \right|+\left| c \right|$.

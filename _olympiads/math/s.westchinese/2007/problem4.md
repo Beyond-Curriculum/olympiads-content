@@ -1,0 +1,2 @@
+Точка $ O$ лежит внутри треугольника $ ABC$. Докажите, что существуют натуральные числа $ p,q$ и $ r$ такие, что
+$$ |p\cdot\overrightarrow{OA} + q\cdot\overrightarrow{OB} + r\cdot\overrightarrow{OC}| < \frac{1}{2007}.$$

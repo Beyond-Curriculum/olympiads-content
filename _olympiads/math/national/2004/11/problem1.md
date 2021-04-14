@@ -1,0 +1,1 @@
+Для вещественных чисел $1\leq a\leq b \leq c \leq d \leq e \leq f$ докажите неравенство  $$(af + be + cd)(af + bd + ce) \leq (a + b^2  + c^3 )(d + e^2  + f^3 ).$$

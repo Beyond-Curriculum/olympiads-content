@@ -1,0 +1,1 @@
+Доказать, что если $a+b+c\leq 3$ и $a \geq 0$, $b \geq 0$, $c\geq 0$, то $\frac{a}{a+1}+\frac{b}{b+1}+\frac{c}{c+1}\leq \frac{3}{2}.$

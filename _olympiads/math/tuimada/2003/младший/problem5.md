@@ -1,0 +1,1 @@
+Докажите, что для любых вещественных $x$ и $y$ неравенство $ x^2\sqrt{\mathstrut 1+2y^2}+y^2\sqrt{\mathstrut 1+2x^2}    \geq xy(x+y+\sqrt{\mathstrut 2}) .$

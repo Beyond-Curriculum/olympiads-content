@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/chem-1-tasks.pdf",
+        "title": "1 тур (Задачи)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/chem-2-tasks.pdf",
+        "title": "2 тур (Задачи)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/chem-1-sol.pdf",
+        "title": "1 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/chem-2-sol.pdf",
+        "title": "2 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Analytical-tasks.pdf",
+        "title": "Бонус: Аналитика (Задача)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Crystal-tasks.pdf",
+        "title": "Бонус: Кристаллы (Задача)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Inorganic-tasks.pdf",
+        "title": "Бонус: Неорганика (Задача)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Organic-tasks.pdf",
+        "title": "Бонус: Органика (Задача)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/OrganicConcept-tasks.pdf",
+        "title": "Бонус: Концепты органики (Задача)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Analytical-sols.pdf",
+        "title": "Бонус: Аналитика (Решение)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Crystals-sols.pdf",
+        "title": "Бонус: Кристаллы (Решение)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Inorganic-sols.pdf",
+        "title": "Бонус: Неорганика (Решение)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/Organic-sols.pdf",
+        "title": "Бонус: Органика (Решение)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/national/final/2020/OrganicConcept-sols.pdf",
+        "title": "Бонус: Концепты органики (Решение)"
+    }
+]

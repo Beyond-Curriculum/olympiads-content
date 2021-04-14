@@ -1,0 +1,2 @@
+Дана функция $f:\mathbb{Z}\to \mathbb{Z}$ такая, что для любых целых $x$ и $y$ выполнено  $f\left( x-f\left( y \right) \right)-f\left( 2x-f\left( y \right) \right)=f{{\left( x \right)}^{2}}.$ 
+Докажите, что для всех целых $x$ справедливо равенство $f\left( f\left( x \right) \right)=0$. Здесь $\mathbb{Z}$ — множество целых чисел.

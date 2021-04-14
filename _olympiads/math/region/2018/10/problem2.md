@@ -1,0 +1,1 @@
+Решите уравнение $f\left( x \right)={{x}^{2}}-1$, где $f(x)$ – функция, определённая на $\mathbb{R}$ и при всех $x\in \mathbb{R}$ удовлетворяющая равенству $3f\left( x \right)+f\left( -x \right)=\left\{ \begin{align}   & x,x\le 0, \\   & 5x,x>0. \\ \end{align} \right.$

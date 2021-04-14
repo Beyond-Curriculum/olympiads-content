@@ -1,0 +1,1 @@
+Решите ребус:  $\overline{AX}\cdot \overline{YX}=2001$.
