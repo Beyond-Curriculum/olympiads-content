@@ -15,7 +15,8 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           script: |
-            cd /var/www/olympiads/
+            cd /var/www/olympiads-content/
             git pull origin main
+            cd /var/www/olympiads/
             npm run build
             npm run export
