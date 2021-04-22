@@ -11,7 +11,7 @@
 
 Для закрепления тем, мы предлагаем вам решать задачи по тегам в Орбитали. Но подборки, по большей части, создают искусственную обстановку. На олимпиаде не будет написано тем перед задачами, поэтому не стоит забывать о практике. 
 
-Стоит сказать, что не существует конкретного плана подготовки, изучив которые вы станете успешно выступать на олимпиадах. Одна из причин — это то, что разным людям нужно разное кол-во времени для усвоения материала: одним достаточно 10 задач, чтобы понять общую суть метода, когда как другим на это понадобится 20-30 задач. Наша логика была в том, что лучше дать больше материалов для закрепления, чем меньше, поэтому если у вас возникает чувство, что задачи легкие — пропускайте их. И помните, что цель состоит не в изучении максимального кол-ва книг или статей, а в получении максимального объёма математических навыков и знаний, а уж как вы будете их добывать — решать вам, мы лишь даем рекомендации.
+Стоит сказать, что не существует конкретного плана подготовки, изучив которые вы станете успешно выступать на олимпиадах. Одна из причин — это то, что разным людям нужно разное кол-во времени для усвоения материала: одним достаточно 10 задач, чтобы понять общую суть метода, когда как другим на это понадобится 20-30 задач. Наша логика была в том, что лучше дать больше материалов для закрепления, чем меньше, поэтому если у вас возникает чувство, что задачи лёгкие — пропускайте их. И помните, что цель состоит не в изучении максимального количества книг или статей, а в получении максимального объёма математических навыков и знаний, а уж как вы будете их добывать — решать вам, мы лишь даём рекомендации.
 
 
 ## База
@@ -27,9 +27,9 @@
    **Примечание:** эта статья также может быть дополнена Chapter 16: Sum of Digits — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book_2.pdf).
 
 9. Chapter 5: Basic Principles in Number Theory — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-10. Chapter 3: p-adic Valuation — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
+10. Chapter 3: $p$-adic Valuation — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
 11. Chapter 7: More on Divisibility — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-12. [Lifting the Exponent Lemma by Amir Hossein Parvardi](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Amir_Hossein-Lifting_The_Exponent.pdf). Решения: [solutions](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Amir_Hossein-Lifting_The_Exponent_Solutions.pdf)
+12. [Lifting the Exponent Lemma by Amir Hossein Parvardi](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Amir_Hossein-Lifting_The_Exponent.pdf). Решения: [solutions](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Amir_Hossein-Lifting_The_Exponent_Solutions.pdf).
 
 13. Chapter 5: Problem Solving Strategies — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
 
@@ -38,12 +38,12 @@
 2. Chapter 7.1: Chinese Remainder Theorem — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
 
 ## Степени в теории чисел
-Под эту категорию я вставил все, что связано \(a^n, a^n-b^n, a^n+b^n\) под определенными модулями. Сюда входят теорема Эйлера, показатели, первообразные корни и так далее. Это почти что базовый инструмент в теории чисел. Им очень легко овладеть, достаточно решить достаточное количество задач на эту тему, чтобы понять природу поведения экспонент в теории чисел.
+Под эту категорию я вставил все, что связано $a^n, a^n-b^n, a^n+b^n$ под определёнными модулями. Сюда входят теорема Эйлера, показатели, первообразные корни и так далее. Это почти что базовый инструмент в теории чисел. Им очень легко овладеть, достаточно решить достаточное количество задач на эту тему, чтобы понять природу поведения экспонент в теории чисел.
 1. [A Note on the Carmichael Function by Yimin Ge](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Yimin_Ge-Carmichael_Function.pdf)
 2. [Exponents and Primes by Alexander Remorov](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Alexander_Remorov-Exponents_and_Primes.pdf)
 
 Подсказки: [hints](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Alexander_Remorov-Exponents_and_Primes_Solutions.pdf)
-  
+
    **Примечание:** главное для вас это решить последние 12 задач.
 3. [Remainder of $Aa^x+B^x$ by Yimin Ge](https://cdn.bc-pf.org/resources/math/number_theory/Yimin_Ge-Remainders_of_Exponents.pdf)
 
