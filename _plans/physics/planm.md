@@ -1,0 +1,83 @@
+﻿## Лицензия
+
+<p xmlns:cc="http://creativecommons.org/ns#" >Настоящий план подготовки является предметом интеллектуальной собственности <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://bc-pf.org/">ОФ Beyond Curriculum</a> и лицензирован под условиями <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a>. Вы можете распространять этот план подготовки частично или целиком при следующих условиях: вы обязаны указать правообладателя (BY, ОФ "Beyond Curriculum") с активной ссылкой на первоисточник, при этом, вы не можете видоизменять план подготовки (ND) и вы должны использовать его исключительно в некоммерческих целях (NC). </p>
+
+> Напоминаем, что Республика Казахстан (как и многие другие страны) присоединилась к Бернской конвенции Законом РК № 297-1 от 10.11.1998 г., и конвенция вступила в законную силу с 12 апреля 1999 года. Согласно данной конвенции, страны участницы уважают авторское право других стран участниц в той же мере, в которой они уважают авторские права своих граждан.
+
+## Предисловие
+
+Данный план был разработан нами для получения основных знаний, необходимых для успешного участия на олимпиадах по физике. План разделён на четыре уровня. Для удобства, для каждого уровня указан примерный класс, но стоит понимать, что это является не более чем рекомендацией; любой ученик может заниматься программой как выше классом, так и ниже.
+
+ - 1 уровень &mdash; для тех, кто только начал изучение физики (7-8 класс)
+ - 2 уровень &mdash; уровень областной и республиканской олимпиады 9 класса
+ - 3 уровень &mdash; уровень областной и республиканской олимпиады 10-12 класса
+ - 4 уровень &mdash; уровень республиканских сборов и международных олимпиад
+ - Математика &mdash; то, что нужно знать по математике
+
+# Что нужно знать по математике?
+
+## 7-8 класс
+
+#### Вектора
+
+*  Вектор и методы его представления
+*  Действия над векторами
+*  Координаты вектора
+*  [Почитать про вектора в этой книге](https://cdn.bc-pf.org/resources/physics/math/ryabushko-tom_1_sbornik_individualnyh_zadaniy_po_vyshei_matematike.djvu)
+
+#### Функции
+
+* Степенная функция
+* Обратимые функции
+* Логарифм
+* Графики функций
+* [Удобный сайт](https://www.desmos.com/calculator) для рисования функций
+*  [Почитать про функции в этой книге](https://cdn.bc-pf.org/resources/physics/math/Skanavi-elementarnaya_matematika.pdf)
+
+#### Координатные системы
+
+* Декартовая система координат
+* Полярные координаты
+
+#### Тригонометрия
+
+-   Что нужно знать?
+    -   Тригонометрические функции $\sin, \cos, \tan, \cot$
+    -   Обратные тригонометрические функции
+    -   Теорема Пифагора для синуса и косинуса
+    -   Сумма и разность углов
+    -   Графики тригонометрических функций
+    -   Сумма синусов и косинусов
+    -   Теорема синусов и косинусов
+-   Как подготовиться? Можно найти разные формулы тригонометрии и пытаться вывести их. Также можно заниматься по этой [книге](https://cdn.bc-pf.org/resources/physics/math/trigonometriya.pdf).
+
+## 9 класс
+
+#### Математический анализ
+
+* Что нужно знать?
+  * Предел
+  * Производная
+  * Интеграл
+  * Разделимые дифференциальное уравнение
+  * Применение математического анализа в физике
+* [Сайт](https://www.wolframalpha.com/) на котором можно решать разные задачи по матанализу (брать производные, интегрировать, решать дифференциальные уравнения)
+
+#### Книги
+
+* [Демидович, высшая математика](https://cdn.bc-pf.org/resources/physics/math/Demidovich-Kratkij_kurs_vysshej_matematiki.djvu)
+* [Томас, математический анализ](https://cdn.bc-pf.org/resources/physics/math/Thomas_Calculus.pdf)
+
+## 10 класс
+
+#### Высшая математика
+
+* Что нужно знать?
+  * Дифференциальные уравнения
+  * Ряд Тейлора
+  * Комплексные числа
+
+#### Книги
+
+* [Демидович, высшая математика](https://cdn.bc-pf.org/resources/physics/math/Demidovich-Kratkij_kurs_vysshej_matematiki.djvu)
+* [Томас, математический анализ](https://cdn.bc-pf.org/resources/physics/math/Thomas_Calculus.pdf)
