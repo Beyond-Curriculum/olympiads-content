@@ -26,8 +26,7 @@
 5. Chapter 2: Coloring proofs
 
 	**Примечание:** Во всех 38-и задачах рассказывается об одной идее раскраски, поэтому решайте столько, сколько вам понадобится для усвоения темы: например, только чётные задачи или только последние 10 задач.
-    
-    
+   
 6. Chapter 8: Induction Principle
 7. Chapter 13: Games
 ### Combinatorical Problems in Mathematical Competitions by Yao Zhang
@@ -42,8 +41,7 @@
 7. Chapter 8: Recurrence Method
 8. Chapter 9: Coloring Method and Evaluation Method
 
-	**Примечание:** эта глава может быть дополнена решением или прочтением решения этой задачи: [Two Solutions to a Tiling Problem by Zachary Abel](https://cdn.bc-pf.org/resources/math/combinatorics/Zachary_Abel-tiling_problem.pdf)
-   
+	**Примечание:** эта глава может быть дополнена решением или прочтением решения этой задачи: [Two Solutions to a Tiling Problem by Zachary Abel](https://cdn.bc-pf.org/resources/math/combinatorics/Zachary_Abel-tiling_problem.pdf).
    
 9. Chapter 10: Reduction to Absurdity and the Extreme Principle
 10. Chapter 11: Local Adjustment Method
@@ -59,7 +57,6 @@
 
    **Примечание:** здесь следует решать только примеры.
    
-
 3. Chapter 6: Counting in Two Ways — [Olympiad Combinatorics by Pranav Sriram](https://cdn.bc-pf.org/resources/math/combinatorics/Pranav_Sriram-Olympiad_Combinatorics.pdf)
 
 
@@ -76,7 +73,7 @@
 1. Chapter 20: A Pigeonhole Principle Revisited — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
 
 ## Производящие функции
-Хоть производящие функции и являются алгебраическим понятием, они помогают работать с комбинаторными объектами, что бывает полезным не только в комбинаторике, но и в теории чисел. Идея, заложенная в производящие функции, очень красива, и скорее всего вы получите удовольствие при решении задач на эту тему (~~кроме, конечно, случаев, когда у вас врождённая резистентность к комбинаторике~~). Также хочется отметить, что задачи с применением производящих функций часто требуют понимания поведения корней из единицы и алгебраических чисел (чаще всего для Root Unity Filter), что вы можете узнать в 5-ой секции [теории по многочленам](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Aibek_Myrzatay-Polynomials_theory.pdf).
+Хоть производящие функции и являются алгебраическим понятием, они помогают работать с комбинаторными объектами, что бывает полезным не только в комбинаторике, но и в теории чисел. Идея, заложенная в производящие функции, очень красива, и скорее всего вы получите удовольствие при решении задач на эту тему. Также хочется отметить, что задачи с применением производящих функций часто требуют понимания поведения корней из единицы и алгебраических чисел (чаще всего для Root Unity Filter), что вы можете узнать в 5-ой секции [теории по многочленам](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Aibek_Myrzatay-Polynomials_theory.pdf).
 
 1. Chapter 3: The Generating Functions — [Combinatorial Problems in Mathematical Competitions by Yao Zhang](https://cdn.bc-pf.org/resources/math/combinatorics/Yao_Zhang-combinatorial_problems_in_mathematical_competitions.pdf)
 

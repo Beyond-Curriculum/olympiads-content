@@ -40,7 +40,7 @@
 3. Chapter 8.1: Getting Started, Schur’s Inequality
 4. Chapter 8.3: Normalization Skill
 ### Частные случаи
-1. [Nice Identity](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Nice_Identity_problems.pdf). Решения: [solutions](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Excalibur-Nice_Identity.pdf)
+1. [Nice Identity](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Nice_Identity_problems.pdf). Решения: [solutions](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Excalibur-Nice_Identity.pdf).
 2. [On maximization of special function on the basis of given parameters by Sayan Mukherjee, Kolkata](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Mukherjee-Maximization.pdf)
 3. Chapter 1: Some Useful Substitutions — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
 4. [Square it! by Mathematical Excalibur](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Excalibur-Square_it.pdf)
@@ -153,7 +153,7 @@ And then we won accidentally three times (2015, 2016, 2018).”
 
 ### Теория:
 
-Для начала прочитайте определение следующих терминов: [поле](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5), [кольцо](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)#:~:text=%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%CC%81%20(%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE)%20%D0%B2,%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9%2C%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5), [векторное пространство](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE)
+Для начала прочитайте определение следующих терминов: [поле](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5), [кольцо](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)#:~:text=%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%CC%81%20(%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE)%20%D0%B2,%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9%2C%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5), [векторное пространство](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE).
 
 1. Chapter 9: Vector Spaces — [An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf)
 2. Lecture 1: Matrix-Vector Multiplication — [Numerical Linear Algebra by Lloyd Trefethen and David Paul](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
