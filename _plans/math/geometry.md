@@ -17,8 +17,7 @@
 По ходу этого модуля вы часто будете встречать две книги: *Euclidian Geometry in Mathematical Olympiads by Evan Chen* и *Lemmas in Olympiad Geometry by Titu Andreescu*. Поэтому хотим написать небольшие комментарии:
 
 1. **О книге [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf):**
-   Как и в любой книге в ней существуют ошибки, которые могут привести вас к ситуации, когда вы часами решаете неправильную задачу. С целью избежать таких казусов есть [специальный документ от Evan Chen’а](https://web.evanchen.cc/upload/geombook-errata.pdf) со всеми найденными ошибками, где красными отмечены фатальные ошибки полностью меняющее утверждение задачи. 
-   Как вы наверное успели заметить в книге к каждой задаче предлагается 5 подсказок, что делает эту книгу одной из лучших среди своих аналогов. Подсказки заменяют тренера, которые должен наводить своих учеников в правильном направлении в случае, если они “застряли” в задаче или остаются без идей. Настоятельно рекомендуем перед прочтением подсказки решать задачу определённое кол-во времени и читать их только тогда, когда они вам действительно нужны или вы уже минут десять сидите без идей. Как правило, вы должны находить решение задачи после 4-ой подсказки, а пятая подсказка должна быть только для тех случаев, когда задача была действительно сложной. Из наличия подсказок исходит, что вы не так часто должны прибегать к прочтению самих решений (кроме, конечно, случаев когда вы решили задачу и читаете её решение для ознакомления с идеями автора), но если вы все таки вынуждены прочитать решение, вы можете прибегнуть к помощи [страницы на AoPS именуемый как Contest Collections](https://artofproblemsolving.com/community/c13_contests), либо же специальному [форуму по обсуждению задач из EGMO](https://artofproblemsolving.com/community/c618937_euclidean_geometry_in_mathematical_olympiads).
+   Как и в любой книге в ней существуют ошибки, которые могут привести вас к ситуации, когда вы часами решаете неправильную задачу. С целью избежать таких казусов есть [специальный документ от Evan Chen’а](https://web.evanchen.cc/upload/geombook-errata.pdf) со всеми найденными ошибками, где красными отмечены фатальные ошибки полностью меняющее утверждение задачи. Как вы наверное успели заметить в книге к каждой задаче предлагается 5 подсказок, что делает эту книгу одной из лучших среди своих аналогов. Подсказки заменяют тренера, которые должен наводить своих учеников в правильном направлении в случае, если они “застряли” в задаче или остаются без идей. Настоятельно рекомендуем перед прочтением подсказки решать задачу определённое кол-во времени и читать их только тогда, когда они вам действительно нужны или вы уже минут десять сидите без идей. Как правило, вы должны находить решение задачи после 4-ой подсказки, а пятая подсказка должна быть только для тех случаев, когда задача была действительно сложной. Из наличия подсказок исходит, что вы не так часто должны прибегать к прочтению самих решений (кроме, конечно, случаев когда вы решили задачу и читаете её решение для ознакомления с идеями автора), но если вы все таки вынуждены прочитать решение, вы можете прибегнуть к помощи [страницы на AoPS именуемый как Contest Collections](https://artofproblemsolving.com/community/c13_contests), либо же специальному [форуму по обсуждению задач из EGMO](https://artofproblemsolving.com/community/c618937_euclidean_geometry_in_mathematical_olympiads).
 2. [Форум]((https://artofproblemsolving.com/community/c1213795_lemmas_in_olympiad_geometry_active_forum)) по обсуждению задач из [Lemmas in Olympiad Geometry by Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf).
 
 ## Счёт
@@ -32,10 +31,15 @@
 ### Степень точки
 
 1. Chapter 2: Circles — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
+
 2. Chapter 1: Power of a Point — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+	
 	**Примечание:** Если вас интересует теорема о бабочке, то можете факультативно прочитать [статью про шесть доказательств теоремы о бабочке](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Gorskaya-butterfly_theorem.pdf).
+	
 3. [Degenerate Circles by Nathan Ramesh](https://cdn.bc-pf.org/resources/math/geometry/Nathan_Ramesh-Degenerate_Circles.pdf)
-	**Примечание:** Точка это окружность с радиусом 0 !
+
+  **Примечание:** Точка это окружность с радиусом 0 !
+
 4. Chapter 3: Carnot and Radical Axes — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
 
 ### Отношение сторон
@@ -124,7 +128,6 @@
    
    **Примечание:** тут больше всего интересны философское вступление и элемент игры в угадывание.
    
-   
 4. [On mixtilinear incircles by Jafet Baca](https://cdn.bc-pf.org/resources/math/geometry/mixtilinear_circles/Jafet_Baca-Mixtilinear_incircles.pdf)
    
    **Примечание:** эта шикарная статья, и она отлично дополняет оставшиеся; также у неё достаточно сложные задачи в конце.
@@ -163,7 +166,8 @@
 ### Метод анимации
 
 1. [The Method of Moving Points by Vladyslav Zveryk](https://cdn.bc-pf.org/resources/math/geometry/bash/Vladyslav_Zveryk-The_Method_of_Moving_Points.pdf)
-   
+
    **Примечание:** можете посмотреть [форум по обсуждению задач](https://artofproblemsolving.com/community/c1183199h2127280_vladyslav_zveryks_handouts_problem_links) из Moving Points by Vladyslav Zveryk.
+
 2. [The Method of Animation by Zack Chroman, Gopal K. Goel, Anant Mudgal AoPS](https://cdn.bc-pf.org/resources/math/geometry/bash/Chroman_Goel_Mudgal-The_Method_of_Animation.pdf)
 
