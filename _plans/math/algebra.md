@@ -88,7 +88,7 @@
 
    **Примечание:** тут рассказывается про биномиальные коэффициенты, а также то, как они собою производят все целочисленные многочлены. Целочисленные многочлены — множество многочлены с целыми значениями в целых точках, включающие в себя целочисленные многочлены.
 
-5. Chapter 10: Arithmetic Properties — [Polynomials by Alexander Remorov](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Alexander_Remorov-Polynomials.pdf)
+5. Chapter 10: Arithmetic Properties of Polynomials — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf) 
 ### Опционально
 [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
 
