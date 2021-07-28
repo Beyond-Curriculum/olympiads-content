@@ -1,26 +1,36 @@
 [
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/theory_task.pdf",
-        "title": "Теория (задачи)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/prep_task_rus.pdf",
+        "title": "Подготовительные (задачи)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/theory_sol.pdf",
-        "title": "Теория (решения)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/theory_task.pdf",
+        "title": "Теория (задачи)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/practical_task.pdf",
         "title": "Практика (задачи)"
     },
     {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/prep_sol.pdf",
+        "title": "Подготовительные (решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/theory_sol.pdf",
+        "title": "Теория (решения)"
+    },
+    {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/prep_task_eng.pdf",
         "title": "Preparatory (problems)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/prep_task_rus.pdf",
-        "title": "Подготовительные (задачи)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/theory_final.pdf",
+        "title": "Theory (w/ solutions)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/prep_sol.pdf",
-        "title": "Подготовительные (решения)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2018/practical_final.pdf",
+        "title": "Practical (w/ solutions)"
     }
+
+
 ]

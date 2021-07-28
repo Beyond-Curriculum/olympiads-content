@@ -1,18 +1,34 @@
 [
     {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/prep_task_eng.pdf",
+        "title": "Preparatory (problems)"
+    },
+    {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/theory_task.pdf",
         "title": "Теория (задачи)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/theory_sol.pdf",
-        "title": "Теория (решения)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/practical_task_eng.pdf",
+        "title": "Practical (problems)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/prep_sol.pdf",
+        "title": "Preparatory (solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/theory_sol_eng.pdf",
+        "title": "Theory (solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/practical_sol.pdf",
+        "title": "Practical (solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/theory_task_eng.pdf",
+        "title": "Theory (problems)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/practical_task.pdf",
         "title": "Практика (задачи)"
-    },
-    {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2005/prep_task_eng.pdf",
-        "title": "Preparatory (problems)"
     }
 ]

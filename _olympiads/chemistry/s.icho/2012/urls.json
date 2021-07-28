@@ -1,26 +1,38 @@
 [
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/theory_task.pdf",
-        "title": "Теория (задачи)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/prep_task_rus.pdf",
+        "title": "Подготовительные (задачи)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/theory_sol.pdf",
-        "title": "Теория (решения)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/theory_task.pdf",
+        "title": "Теория (задачи)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/practical_task.pdf",
         "title": "Практика (задачи)"
     },
     {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/prep_sol.pdf",
+        "title": "Preparatory (solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/theory_sol.pdf",
+        "title": "Theory (w/ solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/practical_task_eng.pdf",
+        "title": "Practical (problems)"
+    },
+    {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/prep_task_eng.pdf",
         "title": "Preparatory (problems)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/prep_task_rus.pdf",
-        "title": "Подготовительные (задачи)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/p31amines.pdf",
+        "title": "Problem 31 Amines"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/prep_sol.pdf",
-        "title": "Подготовительные (решения)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2012/p31imines.pdf",
+        "title": "Problem 31 Imines"
     }
 ]

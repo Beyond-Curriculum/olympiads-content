@@ -1,22 +1,30 @@
 [
     {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/prep_task_rus.pdf",
+        "title": "Подготовительные (задачи)"
+    },
+    {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/theory_task.pdf",
-        "title": "Теория (задачи)"
+        "title": "Теория (c решениями)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/practical_task.pdf",
         "title": "Практика (задачи)"
     },
     {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/prep_sol.pdf",
+        "title": "Preparatory (solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/practical_task_eng.pdf",
+        "title": "Practical (problems)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/practical_sol.pdf",
+        "title": "Practical (solutions)"
+    },
+    {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/prep_task_eng.pdf",
         "title": "Preparatory (problems)"
-    },
-    {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/prep_task_rus.pdf",
-        "title": "Подготовительные (задачи)"
-    },
-    {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2008/prep_sol.pdf",
-        "title": "Подготовительные (решения)"
     }
 ]
