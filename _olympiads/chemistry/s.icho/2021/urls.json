@@ -1,6 +1,26 @@
 [
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/prep_task_eng.pdf",
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/theory.pdf",
+        "title": "Theory (problems)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/theory_sol.pdf",
+        "title": "Theory (solutions)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/prep_problems.pdf",
         "title": "Preparatory (problems)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/final_rus.pdf",
+        "title": "Задачи"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/final_rus_sheets.pdf",
+        "title": "Листы ответов"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/icho/2021/prep_sol.pdf",
+        "title": "Preparatory (solutions)"
     }
 ]
