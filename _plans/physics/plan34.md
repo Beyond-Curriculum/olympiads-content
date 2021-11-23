@@ -8,9 +8,9 @@
 
 ## Авторы плана
 
-Этот план был составлен золотым медалистом IZhO, IPhO и APhO Кажымурат Акназаром (ныне студент Гарварда) и Ибраевым Тенгизом (двухкратный серебряный медалист республиканской олимпиады, бронзовый медалист IZhO). Если вы не знаете Акназара - вам [сюда](https://informburo.kz/novosti/shkolnik-iz-almaty-poluchil-zoloto-mezhdunarodnoy-olimpiady-v-kitae.html), [сюда](https://tengrinews.kz/kazakhstan_news/kazahstanskiy-shkolnik-ustanovivshiy-unikalnyiy-rekord-359681/) и [сюда](https://timeskz.kz/35005-kazahstanskiy-shkolnik-privez-zoloto-olimpiady-po-fizike-vo-vetname.html).
+Этот план был составлен золотым медалистом IZhO, IPhO и APhO Кажымурат Акназаром (ныне студент Гарварда) и Ибраевым Тенгизом (двухкратный серебряный медалист республиканской олимпиады, бронзовый медалист IZhO). Если вы не знаете Акназара — вам [сюда](https://informburo.kz/novosti/shkolnik-iz-almaty-poluchil-zoloto-mezhdunarodnoy-olimpiady-v-kitae.html), [сюда](https://tengrinews.kz/kazakhstan_news/kazahstanskiy-shkolnik-ustanovivshiy-unikalnyiy-rekord-359681/) и [сюда](https://timeskz.kz/35005-kazahstanskiy-shkolnik-privez-zoloto-olimpiady-po-fizike-vo-vetname.html).
 
-> IZhO - Международная Жаутыковская олимпиада, IPhO - Международная Физическая олимпиада (самая престижная в мире), APhO - Азиатская Физическая олимпиада (самая сложная в мире)
+> IZhO — Международная Жаутыковская олимпиада, IPhO — Международная Физическая олимпиада (самая престижная в мире), APhO — Азиатская Физическая олимпиада (самая сложная в мире).
 
 ## Предисловие
 

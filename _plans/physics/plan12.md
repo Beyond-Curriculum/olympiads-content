@@ -8,9 +8,9 @@
 
 ## Авторы плана
 
-Этот план был составлен золотым медалистом IZhO, IPhO и APhO Кажымурат Акназаром (ныне студент Гарварда) и Ибраевым Тенгизом (двухкратный серебряный медалист республиканской олимпиады, бронзовый медалист IZhO). Если вы не знаете Акназара - вам [сюда](https://informburo.kz/novosti/shkolnik-iz-almaty-poluchil-zoloto-mezhdunarodnoy-olimpiady-v-kitae.html), [сюда](https://tengrinews.kz/kazakhstan_news/kazahstanskiy-shkolnik-ustanovivshiy-unikalnyiy-rekord-359681/) и [сюда](https://timeskz.kz/35005-kazahstanskiy-shkolnik-privez-zoloto-olimpiady-po-fizike-vo-vetname.html).
+Этот план был составлен золотым медалистом IZhO, IPhO и APhO Кажымурат Акназаром (ныне студент Гарварда) и Ибраевым Тенгизом (двухкратный серебряный медалист республиканской олимпиады, бронзовый медалист IZhO). Если вы не знаете Акназара — вам [сюда](https://informburo.kz/novosti/shkolnik-iz-almaty-poluchil-zoloto-mezhdunarodnoy-olimpiady-v-kitae.html), [сюда](https://tengrinews.kz/kazakhstan_news/kazahstanskiy-shkolnik-ustanovivshiy-unikalnyiy-rekord-359681/) и [сюда](https://timeskz.kz/35005-kazahstanskiy-shkolnik-privez-zoloto-olimpiady-po-fizike-vo-vetname.html).
 
-> IZhO - Международная Жаутыковская олимпиада, IPhO - Международная Физическая олимпиада (самая престижная в мире), APhO - Азиатская Физическая олимпиада (самая сложная в мире)
+> IZhO — Международная Жаутыковская олимпиада, IPhO — Международная Физическая олимпиада (самая престижная в мире), APhO — Азиатская Физическая олимпиада (самая сложная в мире).
 
 ## Предисловие
 
@@ -113,7 +113,7 @@
 	* Школьные учебники по физике 7-9 класс
 	* [Мякишев Г. Я. "Физика Механика 10 класс."](https://cdn.bc-pf.org/resources/physics/Theory/Myakishev-mechanics.pdf)  В данном учебнике есть теоретические знания по всем необходимым разделам механики, а также приведены методы решения задач.
 * Для закрепления материала (задачники расположены в порядке возрастания сложности):
-	-   [Турчина Н. В., Рудакова Л. И., Суров О. И. и др. “3800 задач по физике для школьников и поступающих в ВУЗы.”](https://cdn.bc-pf.org/resources/physics/problem_sets/turchina-3800_zadach.djvu) В данном задачнике представлены задачи по всем разделам элементарной физике разной сложности и ответы к ним. 
+	-   [Турчина Н. В., Рудакова Л. И., Суров О. И. и др. “3800 задач по физике для школьников и поступающих в ВУЗы.”](https://cdn.bc-pf.org/resources/physics/problem_sets/turchina-3800_zadach.djvu) В данном задачнике представлены задачи по всем разделам элементарной физике разной сложности и ответы к ним.
 	-   [Балаш В. А. “Задачи по физике и методы их решения.”](https://cdn.bc-pf.org/resources/physics/problem_sets/Balash-zadachi_i_metody_ikh_resheniya.djvu) В начале каждой главы книги, вам будут представлены краткие теоретические сведения, после которых следуют методы решения задач и их примеры, а в конце задачи для самостоятельного решения с ответами в конце.
 	-   [Гельфгат И. М. “1001 задачa по физике с решениями.”](https://cdn.bc-pf.org/resources/physics/problem_sets/Gelfgat_Gendenshtejn_Kirik-1001_zadacha_po_fizike_s_resheniyami_(1998).djvu)_ В данном задачнике представлены задачи, градуированные следующим образом: _средней, повышенной трудности и олимпиадные_. К большинству задач в конце книги приведены подробные решения.
 
