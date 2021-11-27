@@ -7,9 +7,9 @@
 > Напоминаем, что Республика Казахстан (как и многие другие страны) присоединилась к Бернской конвенции Законом РК № 297-1 от 10.11.1998 г., и конвенция вступила в законную силу с 12 апреля 1999 года. Согласно данной конвенции, страны участницы уважают авторское право других стран участниц в той же мере, в которой они уважают авторские права своих граждан.
 
 ## Авторы Плана
-Идеи и материалы этого плана были предоставлены Мырзатай Айбеком и отредактированы Арсланом Даминовым. Айбек -- золотой медалист IMO, абсолютный чемпион и золотой медалист республиканских олимпиад, абсолютный чемпион и золотой медалист IZhO. Арслан -- серебряный медалист IZhO, АПМО, МОШП и республиканских олимпиад.
+Идеи и материалы этого плана были предоставлены Мырзатай Айбеком и отредактированы Арсланом Даминовым. Айбек — золотой медалист IMO, абсолютный чемпион и золотой медалист республиканских олимпиад, абсолютный чемпион и золотой медалист IZhO. Арслан — серебряный медалист IZhO, АПМО, МОШП и республиканских олимпиад.
 
-> IZhO - Международная Жаутыковская олимпиада, IMO - Международная Математическая олимпиада (самая престижная в мире), BMO - Балканская Математическая олимпиада, АПМО - Азиатская Тихоокеанская Математическая олимпиада, МОШП - Международная Олимпиада Шелковый Путь
+> IZhO — Международная Жаутыковская олимпиада, IMO — Международная Математическая олимпиада (самая престижная в мире), BMO — Балканская Математическая олимпиада, АПМО — Азиатская Тихоокеанская Математическая олимпиада, МОШП — Международная Олимпиада Шелковый Путь.
 
 ## Практика
 
@@ -35,21 +35,21 @@
 1. [How to write solutions by Evan Chen](https://cdn.bc-pf.org/resources/math/others/Evan_Chen-How_to_write_proofs.pdf).
 2. [How to write a solution by AoPS](https://artofproblemsolving.com/news/articles/how-to-write-a-solution).
 3. [IMO 2014 Journal by Evan Chen](https://web.evanchen.cc/handouts/IMO-2014/IMO-2014.pdf).
-   
+
    **Комментарий:** “This describes my experiences competing as TWN2 at the 55th [IMO 2014](https://scoreboard.bc-pf.org/results/math/international-mathematical-olympiad/2014)...”
 4. [Taiwan TST 2014 Reflection by Evan Chen](https://web.evanchen.cc/handouts/TaiwanTST/TaiwanTST.pdf).
-   
+
    **Комментарий:** “This describes my experiences competing for a position on the Taiwan IMO 2014 team. It also contains an extensive commentary on each of the Team Selection Tests and Quizzes, which together covered most of the [2013 IMO Shortlist](https://olympiads.bc-pf.org/math/s/imo/2013).”.
 5. [USAMO 2014 Contest Analysis by Evan Chan](https://web.evanchen.cc/handouts/USAMO2014/USAMO2014.pdf).
-   
+
    **Комментарий:** "This describes in detail the thought process behind each of my solutions to the USAMO 2014. I also scanned the solutions I submitted."
 6. [Constructing Diagrams by Evan Chen](https://web.evanchen.cc/handouts/Constructions/Constructions.pdf).
-   
+
    **Комментарий:** советы о том, как стоит делать чертежи на задачах по геометрии.
 7. [Report on the Third Problem of IMO 2012 by Carlos di Fiore](https://cdn.bc-pf.org/resources/math/others/Carlos_di_Fiore-Liars_guessing_game.pdf).
-   
+
    **Комментарий:** это доклад одного из членов жюри на IMO, увидевшего очень много различных способов решить одну и ту же задачу от учеников во время апелляции. Это статья стоит прочитать если вы уже решали [IMO 2012 P3](https://olympiads.bc-pf.org/math/s/imo/2012/problem3) и хотите увидеть её решения, либо если у вас есть время для решения и разбора одной задачи, но вы не знаете какую именно хотите порешать.
 
 ## Ремарки
 
-1. Время последнего массивного редактирования плана подготовки было совершено в конце июля 2020 года. Данный план подготовки несовершёнен, так как во первых нет объективного способа обучить всех чему-то, во вторых новые материалы могут выходить, не успевающие интегрироваться в программу. Один из ярких примеров - это книга [Modern Olympiad Number Theory by Aditya Khurmi](https://artofproblemsolving.com/community/c6t108f6h2344755_modern_olympiad_number_theory) или то, что на сайте все ещё не было выложено статьи по последовательностям. Если у вас есть предложения по редактированию программы, пожалуйста обратитесь к модераторам. 
+1. Время последнего массивного редактирования плана подготовки было совершено в конце июля 2020 года. Данный план подготовки несовершёнен, так как во первых нет объективного способа обучить всех чему-то, во вторых новые материалы могут выходить, не успевающие интегрироваться в программу. Один из ярких примеров - это книга [Modern Olympiad Number Theory by Aditya Khurmi](https://artofproblemsolving.com/community/c6t108f6h2344755_modern_olympiad_number_theory) или то, что на сайте все ещё не было выложено статьи по последовательностям. Если у вас есть предложения по редактированию программы, пожалуйста обратитесь к модераторам.

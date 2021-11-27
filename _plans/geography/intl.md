@@ -1,4 +1,4 @@
-## Содержание 
+## Содержание
 
 ## Лицензия
 
@@ -20,7 +20,7 @@
 
 ## План по изучению наук Земли (международный уровень)
 
-В IESO могут участвовать олимпиадники по любому предмету, но участие на международном этапе возможно только один раз. Самое важное - это свободное знание английского, так как Казахстан не переводит олимпиаду на русский или казахский язык, как это принято у других стран. 
+В IESO могут участвовать олимпиадники по любому предмету, но участие на международном этапе возможно только один раз. Самое важное — это свободное знание английского, так как Казахстан не переводит олимпиаду на русский или казахский язык, как это принято у других стран. 
 
 **Источники**:
 - [Earth Science]. *Tarbuck, E., Lutgens, F.*
@@ -46,4 +46,3 @@
    [Understanding Earth]: <https://cdn.bc-pf.org/resources/geography/Earth_Science/Understanding-Earth.pdf>
    [Essentials of Oceanography]: <https://cdn.bc-pf.org/resources/geography/Earth_Science/Oceanography_Trujillo.pdf>
    [Meteorology Today]: <https://cdn.bc-pf.org/resources/geography/Earth_Science/Meteorology_Ahrens>
-

@@ -7,14 +7,14 @@
 > Напоминаем, что Республика Казахстан (как и многие другие страны) присоединилась к Бернской конвенции Законом РК № 297-1 от 10.11.1998 г., и конвенция вступила в законную силу с 12 апреля 1999 года. Согласно данной конвенции, страны участницы уважают авторское право других стран участниц в той же мере, в которой они уважают авторские права своих граждан.
 
 ## Авторы Плана
-Идеи и материалы этого плана были предоставлены Мырзатай Айбеком и отредактированы Арсланом Даминовым. Айбек -- золотой медалист IMO, абсолютный чемпион и золотой медалист республиканских олимпиад, абсолютный чемпион и золотой медалист IZhO. Арслан -- серебряный медалист IZhO, АПМО, МОШП и республиканских олимпиад.
+Идеи и материалы этого плана были предоставлены Мырзатай Айбеком и отредактированы Арсланом Даминовым. Айбек — золотой медалист IMO, абсолютный чемпион и золотой медалист республиканских олимпиад, абсолютный чемпион и золотой медалист IZhO. Арслан — серебряный медалист IZhO, АПМО, МОШП и республиканских олимпиад.
 
-> IZhO - Международная Жаутыковская олимпиада, IMO - Международная Математическая олимпиада (самая престижная в мире), BMO - Балканская Математическая олимпиада, АПМО - Азиатская Тихоокеанская Математическая олимпиада, МОШП - Международная Олимпиада Шелковый Путь
+> IZhO — Международная Жаутыковская олимпиада, IMO — Международная Математическая олимпиада (самая престижная в мире), BMO — Балканская Математическая олимпиада, АПМО — Азиатская Тихоокеанская Математическая олимпиада, МОШП — Международная Олимпиада Шелковый Путь.
 
 ## Введение
 Данная программа поделена на четыре раздела. Для достижения наилучшей эффективности рекомендуется заниматься ими равномерно.
 
-Для закрепления тем, мы предлагаем вам решать задачи по тегам в Орбитали. Но подборки, по большей части, создают искусственную обстановку. На олимпиаде не будет написано тем перед задачами, поэтому не стоит забывать о практике. 
+Для закрепления тем, мы предлагаем вам решать задачи по тегам в Орбитали. Но подборки, по большей части, создают искусственную обстановку. На олимпиаде не будет написано тем перед задачами, поэтому не стоит забывать о практике.
 
 Стоит сказать, что не существует конкретного плана подготовки, изучив которые вы станете успешно выступать на олимпиадах. Одна из причин — это то, что разным людям нужно разное кол-во времени для усвоения материала: одним достаточно 10 задач, чтобы понять общую суть метода, когда как другим на это понадобится 20-30 задач. Наша логика была в том, что лучше дать больше материалов для закрепления, чем меньше, поэтому если у вас возникает чувство, что задачи легкие — пропускайте их. И помните, что цель состоит не в изучении максимального кол-ва книг или статей, а в получении максимального объёма математических навыков и знаний, а уж как вы будете их добывать — решать вам, мы лишь даем рекомендации.
 
@@ -38,9 +38,9 @@
 1. Chapter 2: Circles — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
 
 2. Chapter 1: Power of a Point — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-	
+
 	**Примечание:** Если вас интересует теорема о бабочке, то можете факультативно прочитать [статью про шесть доказательств теоремы о бабочке](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Gorskaya-butterfly_theorem.pdf).
-	
+
 3. [Degenerate Circles by Nathan Ramesh](https://cdn.bc-pf.org/resources/math/geometry/Nathan_Ramesh-Degenerate_Circles.pdf)
 
   **Примечание:** Точка это окружность с радиусом 0 !
@@ -49,7 +49,7 @@
 
 ### Отношение сторон
 
-Если счёт углов учит вас тому, как переводить отношение сторон в отношение углов, то счёт сторон будет вас учить прямо противоположному. Сюда входят теоремы Чевы, Менелая, Птолемея и тригонометрия. 
+Если счёт углов учит вас тому, как переводить отношение сторон в отношение углов, то счёт сторон будет вас учить прямо противоположному. Сюда входят теоремы Чевы, Менелая, Птолемея и тригонометрия.
 
 Для изучения этих материалов было бы полезным хотя бы знать что такое синус, косинус, тангенс, котангенс, а также такие теорему синусов и косинусов. Определение базовых тригонометрических функции через прямоугольный треугольник можно узнать в любом школьном учебнике, либо в [этом видео](https://www.youtube.com/watch?v=6b_olMJglXU). Про определение и доказательство теорем косинусов и синусов вы можете узнать в [этом видео](https://www.youtube.com/watch?v=xlTHWSl_DMk). Эти знания поверхностные, но достаточны для решения задач из этой подборки. Для более глубокого понимания рекомендуется посмотреть 2-х часовое видео [Бориса Трушина — Тригонометрические формулы](https://www.youtube.com/watch?v=oDBLJA-RDc8).
 
@@ -65,7 +65,7 @@
 ## Конструкции
 
 1. Chapter 4: Assorted Configurations — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-   
+
    **Примечание:** если вам понравилось последняя задача, то рекомендуется посмотреть сюжет о сложной и красивой [Задаче Ивлева](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Ivlevs-geometry_problem.pdf). Решения многих задач оттуда, а также некоторые обобщения можно встретить в предложенной статье.
 
 2. [Конструкция вокруг вписанной окружности Д. В. Швецова](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Incircle_construction.pdf)
@@ -87,7 +87,7 @@
 Полянский в своей статье рассказывает про лёгкие и интересные леммы, которые порой решают сложные задачи и являются обязательным инструментом в арсенале любого геометра. Даже если вы этого не осознавали, все *воробьи* являются примерами поворотной гомотетии. Поэтому рекомендуем изучить воробьёв после изучения, так называемого *Spiral Similarity*, ибо это даст вам понимание природы этих лемм и того, что заложено в их корень.
 
 1. [Воробьями по пушкам А. Полянского](https://cdn.bc-pf.org/resources/math/geometry/sparrow_lemmas/Alexander_Polyanskii-Sparrows_problems.pdf)
-   
+
    **Примечание:** решение некоторых задач можете найти в [его статье из кванта](https://cdn.bc-pf.org/resources/math/geometry/sparrow_lemmas/Alexander_Polyanskii_Kvant-Sparrow_lemmas.pdf).
 2. [Generalization of a Problem with Isogonal Conjugate Point by Tran Quang Hung and Pham Huy Hoang](https://cdn.bc-pf.org/resources/math/geometry/sparrow_lemmas/Hung_Hoang-Isogonal_conjugate_points.pdf)
 
@@ -95,7 +95,9 @@
 
 1. Chapter 7: Isogonal Conjugates and Pedal Triangles — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
 
-2. Section 2, 3: Isogonal Conjugation in Polygons: — [Advanced Lemmas in Geometry by Fedir Yudin](https://cdn.bc-pf.org/resources/math/geometry/isogonal_conjugates/Fedir_Yudin-Advanced_Lemmas_Isogonal_conjugation.pdf)(Может быть дополнена третьей секцией — [A Few Configurations by Victor Rong](https://cdn.bc-pf.org/resources/math/geometry/Victor_Rong-Configurations.pdf))
+2. Section 2, 3: Isogonal Conjugation in Polygons: — [Advanced Lemmas in Geometry by Fedir Yudin](https://cdn.bc-pf.org/resources/math/geometry/isogonal_conjugates/Fedir_Yudin-Advanced_Lemmas_Isogonal_conjugation.pdf)
+
+  **Примечание:** Может быть дополнена третьей секцией — [A Few Configurations by Victor Rong](https://cdn.bc-pf.org/resources/math/geometry/Victor_Rong-Configurations.pdf)
 
 3. Section 3: Isogonal Lemma — [Advanced Lemmas in Geometry by Fedir Yudin](https://cdn.bc-pf.org/resources/math/geometry/isogonal_conjugates/Fedir_Yudin-Advanced_Lemmas_Isogonal_conjugation.pdf)
 
@@ -106,7 +108,7 @@
 1. Chapter 8: Inversion — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
 2. Chapter 15: Inversion — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
 
-Если вы не полностью можете понять некоторые решения, тогда вы можете почитать другие решения с инверсией с AoPS или со статьи Оразалина Алибека. Большинство проблем возникают, когда начинают использовать свойства композиции инверсии с центральной симметрией, либо композиции инверсии с симметрией относительно биссектрисы угла треугольника. Просто помните, что если условие $X$ сохраняется после обоих движений плоскости, тогда она сохраняется и при их композиции.
+Если вы не полностью можете понять некоторые решения, тогда вы можете почитать другие решения с инверсией с AoPS или со статьи [Оразалина Алибека](https://cdn.bc-pf.org/resources/math/geometry/Orazalin_Alibek_Inversion.pdf). Большинство проблем возникают, когда начинают использовать свойства композиции инверсии с центральной симметрией, либо композиции инверсии с симметрией относительно биссектрисы угла треугольника. Просто помните, что если условие $X$ сохраняется после обоих движений плоскости, тогда она сохраняется и при их композиции.
 
 ### Проективная геометрия
 
@@ -130,11 +132,11 @@
 1. Chapter 4: Assorted Configurations — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
 2. Chapter 17: Mixtilinear and Curvilinear Incircles — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
 3. [A Guessing Game: Mixtilinear Incircles by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/mixtilinear_circles/Evan_Chen-Mixtilinear_Incircles.pdf)
-   
+
    **Примечание:** тут больше всего интересны философское вступление и элемент игры в угадывание.
-   
+
 4. [On mixtilinear incircles by Jafet Baca](https://cdn.bc-pf.org/resources/math/geometry/mixtilinear_circles/Jafet_Baca-Mixtilinear_incircles.pdf)
-   
+
    **Примечание:** эта шикарная статья, и она отлично дополняет оставшиеся; также у неё достаточно сложные задачи в конце.
 
 ## Конструкции 2
@@ -175,4 +177,3 @@
    **Примечание:** можете посмотреть [форум по обсуждению задач](https://artofproblemsolving.com/community/c1183199h2127280_vladyslav_zveryks_handouts_problem_links) из Moving Points by Vladyslav Zveryk.
 
 2. [The Method of Animation by Zack Chroman, Gopal K. Goel, Anant Mudgal AoPS](https://cdn.bc-pf.org/resources/math/geometry/bash/Chroman_Goel_Mudgal-The_Method_of_Animation.pdf)
-
