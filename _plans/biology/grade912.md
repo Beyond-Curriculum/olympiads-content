@@ -32,7 +32,7 @@
     -   Механизм распознавания антигена Т-хелперов и Т-киллеров        
     -   Обзор вакцинации: активный и пассивный иммунитет        
     -   Роль иммунных клеток в аллергической реакции и ее обзор        
-    -   Использование антител в биотехнологии (Иммунофлуоресцентный анализ) 
+    -   Использование антител в биотехнологии (Иммунофлуоресцентный анализ)
     -   Виды дефекта иммунной системы (сильно выраженный, слабо выраженный, самонаправленный)        
     -   Биология рака: причины и механизм появления и развития, методы предотвращения        
     -   Как иммунная система борется с раковыми клетками
@@ -80,11 +80,11 @@
 	-   Жан Батист Ламарк: его открытия и роль
 	-   Жорж Кювье: его открытия и роль
 	-   Чарльз Дарвин и его 5 основных пунктов теории эволюции
-	-   Мутационная теория Коржинского - Де Фриза
+	-   Мутационная теория Коржинского — Де Фриза
 	-   Положения неодарвинизма и синтетическая теория эволюции (СТЭ)
 	-   Рональд Фишер: его открытия и роль в СТЭ
 	-   Феодосий Добржанский: его открытия и роль в СТЭ
-    
+
 ## 3. Экология
 -   Экология популяция и сообществ    
     -   Основные свойства популяции: плотность и распределение        
@@ -130,7 +130,7 @@
 **Источники:**
 
 -   [Raven Biology, Kenneth A. Mason, Jonathan B. Losos, Susan R. Singer](https://cdn.bc-pf.org/resources/biology/General_biology/Raven-Biology_9th_Edition.pdf)
--   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf) 
+-   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf)
 
 
 ## 5. Генетика
@@ -237,7 +237,7 @@
 
 -   [Основы Биохимии Ленинджера(1 том), Д. Нельсон, М. Кокс.](https://cdn.bc-pf.org/resources/biology/Biochemistry/Nelson-Lehninger_Principles_of_Biochemistry_5th_Edition.pdf)     
 -   [Quick Biochemistry basics YouTube канал](https://www.youtube.com/channel/UC5YJ_XQur-qsX3a-Aicz9Lw/videos)    
--   [Biochemistry, Berg, Tymozco, Stryer.](https://cdn.bc-pf.org/resources/biology/Biochemistry/Berg-Biochemistry.pdf) 
+-   [Biochemistry, Berg, Tymozco, Stryer.](https://cdn.bc-pf.org/resources/biology/Biochemistry/Berg-Biochemistry.pdf)
 
 
 ## 7. Молекулярная биология
