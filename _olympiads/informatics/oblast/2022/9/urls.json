@@ -14,5 +14,37 @@
     {
         "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/cs9-1-sol.pdf",
         "title": "1 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/cs9-2-sol.pdf",
+        "title": "2 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-1-codeA.cpp",
+        "title": "1 тур. Код задачи A"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-1-codeB.cpp",
+        "title": "1 тур. Код задачи B"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-1-codeC.cpp",
+        "title": "1 тур. Код задачи C"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-2-codeA.cpp",
+        "title": "2 тур. Код задачи A"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-2-codeB.cpp",
+        "title": "2 тур. Код задачи B"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-2-codeС.cpp",
+        "title": "2 тур. Код задачи C"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-2-codeCHilbert.cpp",
+        "title": "2 тур. Код задачи C с порядком Hilbert Curve"
     }
 ]
