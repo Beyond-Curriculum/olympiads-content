@@ -46,5 +46,9 @@
     {
         "url": "https://cdn.bc-pf.org/olympiads/informatics/national/oblast/2022/code/cs9-2-codeCHilbert.cpp",
         "title": "2 тур. Код задачи C с порядком Hilbert Curve"
+    },
+	{
+        "url": "https://codeforces.com/group/hqhmagxI71/contests",
+        "title": "Система для проверки решений."
     }
 ]
