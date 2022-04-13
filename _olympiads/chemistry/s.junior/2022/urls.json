@@ -22,5 +22,29 @@
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/region/chem8-junior-sol.pdf",
         "title": "Район. 8 кл. Решения"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem8-junior-oblast-tasks-rus.pdf",
+        "title": "Область. 8 кл. Задания (рус)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem7-junior-oblast-tasks-rus.pdf",
+        "title": "Область. 7 кл. Задания (рус)"    
+	},
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem8-junior-oblast-tasks-qaz.pdf",
+        "title": "Область. 8 кл. Задания (каз)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem7-junior-oblast-tasks-qaz.pdf",
+        "title": "Область. 7 кл. Задания (каз)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem8-junior-oblast-sol.pdf",
+        "title": "Область. 8 кл. Решения"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem7-junior-oblast-sol.pdf",
+        "title": "Область. 7 кл. Решения"
     }
 ]
