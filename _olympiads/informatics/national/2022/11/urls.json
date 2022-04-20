@@ -2,5 +2,17 @@
     {
         "url": "https://cdn.bc-pf.org/olympiads/informatics/national/final/2022/cs11-1-tasks.pdf",
         "title": "1 тур (Задачи)"
+    },
+        {
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/final/2022/cs-1-sol.pdf",
+        "title": "1 тур (Код)"
+    },
+	{
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/final/2022/cs-2-tasks.pdf",
+        "title": "2 тур (Задачи)"
+    },
+	{
+        "url": "https://cdn.bc-pf.org/olympiads/informatics/national/final/2022/cs-2-sol.pdf",
+        "title": "2 тур (Код)"
     }
 ]
