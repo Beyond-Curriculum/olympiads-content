@@ -88,3 +88,5 @@ git push
 
 ## При коммите
 При коммите сайт будет билдиться заново, генерируя страницы и sitemap.
+
+*This file has been updated April 25, 2022*
