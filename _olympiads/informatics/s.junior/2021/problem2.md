@@ -26,19 +26,19 @@
 
 <table>
     <tr>
-        <td>$N ≤ 1000, x_i = 1, y_i \leq 10^4$</td>
+        <td>N ≤ 1000, x_i = 1, y_i ≤ 10000</td>
         <td>16 баллов</td>
     </tr>
     <tr>
-        <td>$N ≤ 10^5, x_i = 1, y_i \leq 10^5$</td>
+        <td>N ≤ 100000, x_i = 1, y_i ≤ 10^5</td>
         <td>29 баллов</td>
     </tr>
     <tr>
-        <td>$N ≤ 100, x_i \leq 100, y_i \leq 100$</td>
+        <td>N ≤ 100, x_i ≤ 100, y_i ≤ 100</td>
         <td>17 баллов</td>
     </tr>
     <tr>
-        <td>$N ≤ 10^5, x_i \leq 10^5, y_i \leq 10^5$</td>
+        <td>N ≤ 100000, x_i ≤ 100000, y_i ≤ 100000</td>
         <td>38 баллов</td>
     </tr>
 
