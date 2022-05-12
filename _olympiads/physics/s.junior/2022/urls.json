@@ -22,5 +22,21 @@
     {
         "url": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys7-junior-oblast-sol.pdf",
         "title": "РћР±Р»Р°СЃС‚СЊ. 7 РєР». Р РµС€РµРЅРёСЏ"    
-	}
+	},
+	{
+        "url": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys8-tasks.pdf",
+        "title": "Заключительный. 8 кл. Задания"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys7-tasks.pdf",
+        "title": "Заключительный. 7 кл. Задания"    
+	},
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys8-sol.pdf",
+        "title": "Заключительный. 8 кл. Решения"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys7-sol.pdf",
+        "title": "Заключительный. 7 кл. Решения"
+    }
 ]
