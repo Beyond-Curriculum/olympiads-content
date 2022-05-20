@@ -181,7 +181,7 @@
 **Ресурсы:**
 
 - [И. Ф. Шарыгин, «Сборник задач по геометрии»](https://cdn.bc-pf.org/resources/math/beginners/Sharygin-3000_problems_in_geometry.pdf) (Обязательная книга)
-- [В. В. Прасолов, «Задачи по планиметрии»](https://cdn.bc-pf.org/resources/math/geometry/Prasolov_planimetry.pdf) (1, 2, 3 главы)
+- [В. В. Прасолов, «Задачи по планиметрии»](https://cdn.bc-pf.org/resources/math/geometry/Prasolov-planimetry.pdf) (1, 2, 3 главы)
 
 ## Неравенства
 
