@@ -47,20 +47,28 @@
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/oblast/chem8-junior-oblast-sol.pdf",
         "title": "Область. 8 кл. Решения"
     },
-	{
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem8-tasks.pdf",
-        "title": "Заключительный. 8 кл. Задания"
-    },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem7-tasks.pdf",
-        "title": "Заключительный. 7 кл. Задания"    
-	},
+        "title": "Финал. 7 кл. Задания (рус)"    
+    },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem8-sol.pdf",
-        "title": "Заключительный. 8 кл. Решения"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem8-tasks.pdf",
+        "title": "Финал. 8 кл. Задания (рус)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem7-sol.pdf",
-        "title": "Заключительный. 7 кл. Решения"
+        "title": "Финал. 7 кл. Решения"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem8-tasks-qaz.pdf",
+        "title": "Финал. 8 кл. Задания (каз)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem7-tasks-qaz.pdf",
+        "title": "Финал. 7 кл. Задания (каз)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/junior/2022/final/chem8-sol.pdf",
+        "title": "Финал. 8 кл. Решения"
     }
 ]
