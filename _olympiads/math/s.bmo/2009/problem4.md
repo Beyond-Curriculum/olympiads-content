@@ -1,1 +1,1 @@
-Найдите все функции $f: \mathbb{N} \to \mathbb{N} $, удовлетворяющих условию: $f\left( {{{\left( {f\left( m \right)} \right)}^2} + 2{{\left( {f\left( n \right)} \right)}^2}} \right) = {m^2} + 2{n^2},$ при всех $m$, $n \in \mathbb{N} $.
+п»їРќР°Р№РґРёС‚Рµ РІСЃРµ С„СѓРЅРєС†РёРё $f: \mathbb{N} \to \mathbb{N} $, СѓРґРѕРІР»РµС‚РІРѕСЂСЏСЋС‰РёС… СѓСЃР»РѕРІРёСЋ: $f\left( {{{\left( {f\left( m \right)} \right)}^2} + 2{{\left( {f\left( n \right)} \right)}^2}} \right) = {m^2} + 2{n^2},$ РїСЂРё РІСЃРµС… $m$, $n \in \mathbb{N} $.
