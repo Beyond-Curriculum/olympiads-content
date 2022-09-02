@@ -1,3 +1,3 @@
 ﻿Найдите все натуральные $n$,  для которых существует перестановка $\sigma$ множества $\{1,2,3, \ldots, n\}$, что число 
-\[\sqrt{\sigma(1)+\sqrt{\sigma(2)+\sqrt{\ldots+\sqrt{\sigma(n-1)+\sqrt{\sigma(n)}}}}} \]
+$\sqrt{\sigma(1)+\sqrt{\sigma(2)+\sqrt{\ldots+\sqrt{\sigma(n-1)+\sqrt{\sigma(n)}}}}} $
 рациональное.

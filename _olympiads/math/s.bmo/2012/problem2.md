@@ -2,4 +2,4 @@
 неравенство 
 $\sum_{cyc}(x+y)\sqrt{(z+x)(z+y)}\geq 4(xy+yz+zx). $
 Здесь в левой части неравенства стоит выражение 
-\[(x + y)\sqrt {(z + x)(z + y)}  + (y + z)\sqrt {(x + y)(x + z)}  + (z + x)\sqrt {(y + z)(y + x)}.\]
+$(x + y)\sqrt {(z + x)(z + y)}  + (y + z)\sqrt {(x + y)(x + z)}  + (z + x)\sqrt {(y + z)(y + x)}.$
