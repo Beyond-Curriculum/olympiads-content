@@ -1,0 +1,1 @@
+﻿Дан треугольник $ABC$, в котором $AB+AC > 3BC$. Внутри этого треугольника отмечены точки $P$ и $Q$ такие, что $\angle ABP=\angle PBQ=\angle QBC$ и $\angle ACQ=\angle QCP=\angle PCB$. Докажите, что $AP+AQ > 2BC$.

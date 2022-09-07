@@ -1,0 +1,1 @@
+﻿Положительные числа $a, b, c$ таковы, что $\sqrt{a}+\sqrt{b}+\sqrt{c} \geqslant 3$. Докажите, что $\dfrac{a^{3}}{a^{2}+b}+\dfrac{b^{3}}{b^{2}+c}+\dfrac{c^{3}}{c^{2}+a} \geqslant \dfrac{3}{2}.$

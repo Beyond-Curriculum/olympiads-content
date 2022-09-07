@@ -1,0 +1,1 @@
+﻿Пусть $m \in \mathbb{N}$. Найдите все такие функции $f: \mathbb{R}^{+} \to \mathbb{R}^{+}$, что для любых $x, y \in \mathbb{R}^{+}$ выполнено $$f(f(x)+y)-f(x)=\left(\frac{f(y)}{y}-1\right) \cdot x+f^{(m)}(y) .$$ Здесь ${f^{(m)}}(y) = \underbrace {f(f( \ldots f(y) \ldots ))}_{m \text{ раз}}$.

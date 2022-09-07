@@ -1,0 +1,1 @@
+﻿Внутри треугольника $ABC$ взята такая точка $M$, что $\max(\angle MAB,\angle MBC,\angle MCA) = \angle MCA$. Докажите, что $\sin \angle MAB+\sin \angle MBC \le 1.$
