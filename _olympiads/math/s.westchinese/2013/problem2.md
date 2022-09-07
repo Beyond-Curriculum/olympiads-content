@@ -1,1 +1,1 @@
-Даны действительные $x_1,x_2,\ldots,x_n\in \left[0,1\right]$ ($n \ge 2$). Докажите, что $\sum\limits_{1 \le k  <  j \le n} k {x_k}{x_j} \le \frac{{n - 1}}{3}\sum\limits_{k = 1}^n k {x_k}.$
+﻿Р”Р°РЅС‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹Рµ $x_1,x_2,\ldots,x_n\in \left[0,1\right]$ ($n \ge 2$). Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $\sum\limits_{1 \le k  <  j \le n} k {x_k}{x_j} \le \frac{{n - 1}}{3}\sum\limits_{k = 1}^n k {x_k}.$

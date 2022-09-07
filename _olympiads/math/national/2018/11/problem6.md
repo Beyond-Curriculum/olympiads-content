@@ -1,1 +1,1 @@
-Внутри выпуклого четырехугольника $ABCD$ отмечена точка $M$ такая, что $\angle AMB=\angle ADM+\angle BCM$ и $\angle AMD=\angle ABM+\angle DCM.$  Докажите, что $AM\cdot CM+BM\cdot DM\ge \sqrt{AB\cdot BC\cdot CD\cdot DA}.$
+﻿Р’РЅСѓС‚СЂРё РІС‹РїСѓРєР»РѕРіРѕ С‡РµС‚С‹СЂРµС…СѓРіРѕР»СЊРЅРёРєР° $ABCD$ РѕС‚РјРµС‡РµРЅР° С‚РѕС‡РєР° $M$ С‚Р°РєР°СЏ, С‡С‚Рѕ $\angle AMB=\angle ADM+\angle BCM$ Рё $\angle AMD=\angle ABM+\angle DCM.$  Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $AM\cdot CM+BM\cdot DM\ge \sqrt{AB\cdot BC\cdot CD\cdot DA}.$

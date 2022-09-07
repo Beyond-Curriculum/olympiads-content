@@ -1,1 +1,1 @@
-Пусть $x \geq y \geq z>0$. Докажите, что   $  (x-y+z) \left(\frac{1}{x}-\frac{1}{y}+\frac{1}{z}\right)\geq 1.$
+﻿РџСѓСЃС‚СЊ $x \geq y \geq z>0$. Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ   $  (x-y+z) \left(\frac{1}{x}-\frac{1}{y}+\frac{1}{z}\right)\geq 1.$

@@ -1,1 +1,1 @@
-Положительные числа $a,b,c$  таковы, что $abc=1$. Докажите, что $\left( a-1+\dfrac{1}{b} \right)\left( b-1+\dfrac{1}{c} \right)\left( c-1+\dfrac{1}{a} \right)\le 1.$
+﻿РџРѕР»РѕР¶РёС‚РµР»СЊРЅС‹Рµ С‡РёСЃР»Р° $a,b,c$  С‚Р°РєРѕРІС‹, С‡С‚Рѕ $abc=1$. Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $\left( a-1+\dfrac{1}{b} \right)\left( b-1+\dfrac{1}{c} \right)\left( c-1+\dfrac{1}{a} \right)\le 1.$

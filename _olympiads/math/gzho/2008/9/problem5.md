@@ -1,1 +1,1 @@
-Решите уравнение: $\max \left( x;2-x \right)=\min \left( 3x;1+2x \right)$.
+﻿Р РµС€РёС‚Рµ СѓСЂР°РІРЅРµРЅРёРµ: $\max \left( x;2-x \right)=\min \left( 3x;1+2x \right)$.

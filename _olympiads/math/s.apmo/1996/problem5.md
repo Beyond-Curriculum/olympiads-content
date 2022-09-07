@@ -1,1 +1,1 @@
-$a$, $b$, $c$  —  стороны треугольника. Докажите, что  $\sqrt {a + b - c}  + \sqrt {b + c - a}  + \sqrt {c + a - b}  \leq \sqrt a  + \sqrt b  + \sqrt c. $
+﻿$a$, $b$, $c$  вЂ”  СЃС‚РѕСЂРѕРЅС‹ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°. Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ  $\sqrt {a + b - c}  + \sqrt {b + c - a}  + \sqrt {c + a - b}  \leq \sqrt a  + \sqrt b  + \sqrt c. $

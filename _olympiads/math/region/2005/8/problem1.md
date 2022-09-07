@@ -1,1 +1,1 @@
-Найти сумму $\dfrac{1}{{1 + \sqrt 2 }} + \dfrac{1}{{\sqrt 2  + \sqrt 3 }} + \ldots + \dfrac{1}{{\sqrt {2004}  + \sqrt {2005} }}.$
+﻿РќР°Р№С‚Рё СЃСѓРјРјСѓ $\dfrac{1}{{1 + \sqrt 2 }} + \dfrac{1}{{\sqrt 2  + \sqrt 3 }} + \ldots + \dfrac{1}{{\sqrt {2004}  + \sqrt {2005} }}.$

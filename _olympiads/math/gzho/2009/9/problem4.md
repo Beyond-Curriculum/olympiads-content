@@ -1,1 +1,1 @@
-В выпуклом четырехугольнике $ABCD$ $\angle BAC=\angle DBC=30{}^\circ ,\angle BCA=20{}^\circ $ и $\angle BDC=70{}^\circ $.  Докажите, что $ABCD$ — трапеция.
+﻿Р’ РІС‹РїСѓРєР»РѕРј С‡РµС‚С‹СЂРµС…СѓРіРѕР»СЊРЅРёРєРµ $ABCD$ $\angle BAC=\angle DBC=30{}^\circ ,\angle BCA=20{}^\circ $ Рё $\angle BDC=70{}^\circ $.  Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $ABCD$ вЂ” С‚СЂР°РїРµС†РёСЏ.

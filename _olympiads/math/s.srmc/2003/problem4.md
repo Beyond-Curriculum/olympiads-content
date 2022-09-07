@@ -1,1 +1,1 @@
-Найдите сумму $\sum_{k \in A}\dfrac{1}{k-1}$ если $A = \{ m^n : m,n \in \mathbb{Z}, m,n \ge 2\}$.
+﻿РќР°Р№РґРёС‚Рµ СЃСѓРјРјСѓ $\sum_{k \in A}\dfrac{1}{k-1}$ РµСЃР»Рё $A = \{ m^n : m,n \in \mathbb{Z}, m,n \ge 2\}$.

@@ -1,1 +1,1 @@
-Решите ребус:  $\overline{AX}\cdot \overline{YX}=2001$.
+﻿Р РµС€РёС‚Рµ СЂРµР±СѓСЃ:  $\overline{AX}\cdot \overline{YX}=2001$.
