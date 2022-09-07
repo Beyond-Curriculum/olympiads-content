@@ -1,0 +1,1 @@
+Решить систему уравнений: $ \left\{ \begin{gathered} x^2 + 4 x = 9 - 5y, \hfill \\ y^2 + 2x = 9y - 22. \hfill \\ \end{gathered} \right. $
