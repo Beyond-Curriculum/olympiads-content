@@ -1,1 +1,1 @@
-﻿Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ РґР»СЏ Р»СЋР±С‹С… РїРѕР»РѕР¶РёС‚РµР»СЊРЅС‹С…  $a,b,c$ Рё $d$   РІРµСЂРЅРѕ РЅРµСЂР°РІРµРЅСЃС‚РІРѕ $\dfrac{\left( ab+cd \right)\left( ad+bc \right)}{\left( a+c \right)\left( b+d \right)}\ge \sqrt{abcd}$.
+Докажите, что для любых положительных  $a,b,c$ и $d$   верно неравенство $\dfrac{\left( ab+cd \right)\left( ad+bc \right)}{\left( a+c \right)\left( b+d \right)}\ge \sqrt{abcd}$.

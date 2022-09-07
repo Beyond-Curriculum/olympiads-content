@@ -1,1 +1,1 @@
-﻿Р”РѕРєР°Р¶РёС‚Рµ РЅРµСЂР°РІРµРЅСЃС‚РІРѕ: $\left( a+b \right)\left( a+c \right)\ge 2\sqrt{abc\left( a+b+c \right)}$, $\forall a,b,c > 0$.
+Докажите неравенство: $\left( a+b \right)\left( a+c \right)\ge 2\sqrt{abc\left( a+b+c \right)}$, $\forall a,b,c > 0$.

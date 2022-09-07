@@ -1,1 +1,1 @@
-﻿Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $x\cos x\leq \dfrac{\pi^2}{16}$ РїСЂРё $0 \leq x \leq \dfrac{\pi}{2}$.
+Докажите, что $x\cos x\leq \dfrac{\pi^2}{16}$ при $0 \leq x \leq \dfrac{\pi}{2}$.

@@ -1,2 +1,2 @@
-﻿Р¤СѓРЅРєС†РёСЏ $f:\mathbb{R}\backslash \left\{ 0,1 \right\}\to \mathbb{R}$ Р·Р°РґР°РµС‚СЃСЏ СЃР»РµРґСѓСЋС‰РёРј РѕР±СЂР°Р·РѕРј: 
-$f\left( x \right)=\dfrac{{{\left( {{x}^{2}}-x+1 \right)}^{3}}}{{{x}^{2}}{{\left( x-1 \right)}^{2}}}$. Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $f\left( x \right)=f\left( 1-x \right)=f\left( \dfrac{1}{x} \right)$ РґР»СЏ РІСЃРµС… $x\in \mathbb{R}\backslash \left\{ 0,1 \right\}$.
+Функция $f:\mathbb{R}\backslash \left\{ 0,1 \right\}\to \mathbb{R}$ задается следующим образом: 
+$f\left( x \right)=\dfrac{{{\left( {{x}^{2}}-x+1 \right)}^{3}}}{{{x}^{2}}{{\left( x-1 \right)}^{2}}}$. Докажите, что $f\left( x \right)=f\left( 1-x \right)=f\left( \dfrac{1}{x} \right)$ для всех $x\in \mathbb{R}\backslash \left\{ 0,1 \right\}$.

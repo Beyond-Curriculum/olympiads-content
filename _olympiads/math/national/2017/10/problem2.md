@@ -1,2 +1,2 @@
-﻿РќР°Р№РґРёС‚Рµ РІСЃРµ С„СѓРЅРєС†РёРё $f:\mathbb{R}\to \mathbb{R} $ С‚Р°РєРёРµ, С‡С‚Рѕ 
-$\left| y-f\left( f\left( x \right) \right)\left| \ge  \right|f{{\left( x \right)}^{2}}+xf\left( y \right) \right|$ РґР»СЏ Р»СЋР±С‹С… РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹С… $x$ Рё $y$. Р—РґРµСЃСЊ $\mathbb{R}$ вЂ” РјРЅРѕР¶РµСЃС‚РІРѕ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹С… С‡РёСЃРµР».
+Найдите все функции $f:\mathbb{R}\to \mathbb{R} $ такие, что 
+$\left| y-f\left( f\left( x \right) \right)\left| \ge  \right|f{{\left( x \right)}^{2}}+xf\left( y \right) \right|$ для любых действительных $x$ и $y$. Здесь $\mathbb{R}$ — множество действительных чисел.

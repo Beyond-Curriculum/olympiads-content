@@ -1,2 +1,2 @@
-﻿РџСѓСЃС‚СЊ $d_1$, $d_2$ вЂ” РґРµР»РёС‚РµР»Рё С‡РёСЃР»Р° $n$ ($d_1 \cdot d_2\neq  n$). Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ, РµСЃР»Рё 
-${\mathop{\hbox{РќРћР”}}\nolimits} \left( {{d_1},\frac{n}{{{d_2}}}} \right) = {\mathop{\hbox{РќРћР”}}\nolimits} \left( {{d_2},\frac{n}{{{d_1}}}} \right)$, С‚Рѕ  $d_1=d_2$.
+Пусть $d_1$, $d_2$ — делители числа $n$ ($d_1 \cdot d_2\neq  n$). Докажите, что, если 
+${\mathop{\hbox{НОД}}\nolimits} \left( {{d_1},\frac{n}{{{d_2}}}} \right) = {\mathop{\hbox{НОД}}\nolimits} \left( {{d_2},\frac{n}{{{d_1}}}} \right)$, то  $d_1=d_2$.

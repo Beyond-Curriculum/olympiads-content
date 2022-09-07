@@ -1,1 +1,1 @@
-﻿РќР°Р№С‚Рё РІСЃРµ С„СѓРЅРєС†РёРё $f:\mathbb{R}\to \mathbb{R}$, СѓРґРѕРІР»РµС‚РІРѕСЂСЏСЋС‰РёРµ СЃРѕРѕС‚РЅРѕС€РµРЅРёСЋ $\left( x-2 \right)f\left( y \right)+f\left( y+2f\left( x \right) \right)=f\left( x+yf\left( x \right) \right)$ РїСЂРё РІСЃРµС… $x,y\in \mathbb{R}$.
+Найти все функции $f:\mathbb{R}\to \mathbb{R}$, удовлетворяющие соотношению $\left( x-2 \right)f\left( y \right)+f\left( y+2f\left( x \right) \right)=f\left( x+yf\left( x \right) \right)$ при всех $x,y\in \mathbb{R}$.

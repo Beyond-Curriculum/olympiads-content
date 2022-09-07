@@ -1,1 +1,1 @@
-﻿Р’С‹С‡РёСЃР»РёС‚Рµ Р·РЅР°С‡РµРЅРёРµ РІС‹СЂР°Р¶РµРЅРёСЏ:   $(1+{\mathop{\hbox{tg}}\nolimits} 1^\circ)(1+{\mathop{\hbox{tg}}\nolimits} 2^\circ)\dots  (1+{\mathop{\hbox{tg}}\nolimits} 44^\circ)$.
+Вычислите значение выражения:   $(1+{\mathop{\hbox{tg}}\nolimits} 1^\circ)(1+{\mathop{\hbox{tg}}\nolimits} 2^\circ)\dots  (1+{\mathop{\hbox{tg}}\nolimits} 44^\circ)$.

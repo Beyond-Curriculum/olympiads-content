@@ -1,1 +1,1 @@
-﻿Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $a=\sqrt{9-\sqrt{77}}\sqrt{2}\left( \sqrt{11}-\sqrt{7} \right)\left( 9+\sqrt{77} \right)$ вЂ” С†РµР»РѕРµ С‡РёСЃР»Рѕ.
+Докажите, что $a=\sqrt{9-\sqrt{77}}\sqrt{2}\left( \sqrt{11}-\sqrt{7} \right)\left( 9+\sqrt{77} \right)$ — целое число.

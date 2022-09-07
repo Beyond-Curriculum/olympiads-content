@@ -1,2 +1,2 @@
-﻿Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ РїСЂРё Р»СЋР±РѕРј РЅР°С‚СѓСЂР°Р»СЊРЅРѕРј $n$ РїСЂРѕРёР·РІРµРґРµРЅРёРµ $n$ С‡РёСЃРµР» 
-$$\left( 1+\frac{1}{3} \right)\left( 1+\frac{1}{8} \right)\left( 1+\frac{1}{15} \right)\left( 1+\frac{1}{24} \right)\cdot \ldots \cdot \left( 1+\frac{1}{{{n}^{2}}+2n} \right)$$ РЅРµ РїСЂРµРІРѕСЃС…РѕРґРёС‚ 2.
+Докажите, что при любом натуральном $n$ произведение $n$ чисел 
+$$\left( 1+\frac{1}{3} \right)\left( 1+\frac{1}{8} \right)\left( 1+\frac{1}{15} \right)\left( 1+\frac{1}{24} \right)\cdot \ldots \cdot \left( 1+\frac{1}{{{n}^{2}}+2n} \right)$$ не превосходит 2.

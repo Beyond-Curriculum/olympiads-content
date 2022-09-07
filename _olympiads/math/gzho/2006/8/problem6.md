@@ -1,1 +1,1 @@
-﻿Р’РµСЂРЅРѕ Р»Рё, С‡С‚Рѕ $\dfrac{2\cdot \text{ 2005}}{\text{1}+\dfrac{\text{1}}{\text{1}+\text{2}}+\dfrac{1}{1+2+3}+\dots+\dfrac{1}{1+2+3+\dots+2005}}=2006 \ ?$
+Верно ли, что $\dfrac{2\cdot \text{ 2005}}{\text{1}+\dfrac{\text{1}}{\text{1}+\text{2}}+\dfrac{1}{1+2+3}+\dots+\dfrac{1}{1+2+3+\dots+2005}}=2006 \ ?$

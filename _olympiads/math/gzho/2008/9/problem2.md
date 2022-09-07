@@ -1,1 +1,1 @@
-﻿Р РµС€РёС‚Рµ СѓСЂР°РІРЅРµРЅРёРµ: $\left( 1+x+{{x}^{2}} \right)\left( 1+x+\ldots +{{x}^{10}} \right)={{\left( 1+x+\ldots +{{x}^{6}} \right)}^{2}}.$
+Решите уравнение: $\left( 1+x+{{x}^{2}} \right)\left( 1+x+\ldots +{{x}^{10}} \right)={{\left( 1+x+\ldots +{{x}^{6}} \right)}^{2}}.$

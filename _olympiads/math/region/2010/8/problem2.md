@@ -1,1 +1,1 @@
-﻿Р”Р°РЅ РїСЏС‚РёСѓРіРѕР»СЊРЅРёРє $ABCDE$ С‚Р°РєРѕР№, С‡С‚Рѕ $AB = BC = CD = DE$, $\angle B=96^\circ $ $\angle C= \angle D=108^\circ $. РќР°Р№РґРёС‚Рµ $\angle E$.
+Дан пятиугольник $ABCDE$ такой, что $AB = BC = CD = DE$, $\angle B=96^\circ $ $\angle C= \angle D=108^\circ $. Найдите $\angle E$.

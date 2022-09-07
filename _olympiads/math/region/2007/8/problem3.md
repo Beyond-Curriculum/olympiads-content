@@ -1,1 +1,1 @@
-﻿Р”Р°РЅ РІС‹РїСѓРєР»С‹Р№ С‡РµС‚С‹СЂРµС…СѓРіРѕР»СЊРЅРёРє $ABCD$, РІ РєРѕС‚РѕСЂРѕРј $\angle BAC = 20^\circ $, $\angle CAD = 60^\circ $, $\angle ADB = 50^\circ $ Рё $\angle BDC = 10^\circ $ . РќР°Р№РґРёС‚Рµ $\angle ACB$.
+Дан выпуклый четырехугольник $ABCD$, в котором $\angle BAC = 20^\circ $, $\angle CAD = 60^\circ $, $\angle ADB = 50^\circ $ и $\angle BDC = 10^\circ $ . Найдите $\angle ACB$.

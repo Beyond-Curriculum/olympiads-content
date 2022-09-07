@@ -1,1 +1,1 @@
-﻿Р”Р°РЅС‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹Рµ С‡РёСЃР»Р° $a_1,a_2,\ldots,a_n > 0$ $(n\geq 2)$. Р”РѕРєР°Р¶РёС‚Рµ, С‡С‚Рѕ $$\sum_{i=1}^n \max\{a_1,a_2,\ldots,a_i \} \cdot \min \{a_i,a_{i+1},\ldots,a_n\}\leq \frac{n}{2\sqrt{n-1}}\sum_{i=1}^n a^2_i.$$
+Даны действительные числа $a_1,a_2,\ldots,a_n > 0$ $(n\geq 2)$. Докажите, что $$\sum_{i=1}^n \max\{a_1,a_2,\ldots,a_i \} \cdot \min \{a_i,a_{i+1},\ldots,a_n\}\leq \frac{n}{2\sqrt{n-1}}\sum_{i=1}^n a^2_i.$$

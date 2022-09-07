@@ -1,1 +1,1 @@
-﻿Р’ РІС‹РїСѓРєР»РѕРј С‡РµС‚С‹СЂРµС…СѓРіРѕР»СЊРЅРёРєРµ $ABCD$ РёР·РІРµСЃС‚РЅРѕ: $\angle ABC=140^\circ$, $\angle  ADC=115^\circ$, $\angle CBD=40^\circ$, $\angle CDB=65^\circ$. Р’С‹С‡РёСЃР»РёС‚Рµ СѓРіРѕР» $\angle ACD$.
+В выпуклом четырехугольнике $ABCD$ известно: $\angle ABC=140^\circ$, $\angle  ADC=115^\circ$, $\angle CBD=40^\circ$, $\angle CDB=65^\circ$. Вычислите угол $\angle ACD$.
