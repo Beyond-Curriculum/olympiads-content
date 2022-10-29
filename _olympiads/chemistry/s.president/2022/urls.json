@@ -14,5 +14,21 @@
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-sol-kaz.pdf",
         "title": "Решения районного этап(Казахский)"
+    },
+        {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-tasks-kaz.pdf",
+        "title": "Отборочный этап(Казахский)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-tasks.pdf",
+        "title": "Отборочный этап(Русский)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-sol.pdf",
+        "title": "Разбор отборочного этап(Русский)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-sol-kaz.pdf",
+        "title": "Разбор отборочного этап(Казахский)"
     }
 ]
