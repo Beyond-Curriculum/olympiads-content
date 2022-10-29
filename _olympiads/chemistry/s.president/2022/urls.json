@@ -1,34 +1,34 @@
 [
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-tasks-kaz.pdf",
-        "title": "Районный этап(Казахский)"
-    },
-    {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-tasks.pdf",
-        "title": "Районный этап(Русский)"
+        "title": "Регион. (Задания)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-sol.pdf",
-        "title": "Решения районного этап(Русский)"
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-tasks-kaz.pdf",
+        "title": "Регион. (Тапсырмалар)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-sol-kaz.pdf",
-        "title": "Решения районного этап(Казахский)"
+        "title": "Регион. (Шешімдер)"
     },
-        {
+	{
+        "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-president-region-sol.pdf",
+        "title": "Регион. (Решения)"
+    },
+	{
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-tasks-kaz.pdf",
-        "title": "Отборочный этап(Казахский)"
+        "title": "Іріктеу. (Тапсырмалар)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-tasks.pdf",
-        "title": "Отборочный этап(Русский)"
+        "title": "Отбор. (Задания)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-sol.pdf",
-        "title": "Разбор отборочного этап(Русский)"
+        "title": "Отбор. (Решения)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/chemistry/president/2022/chem-otbor-sol-kaz.pdf",
-        "title": "Разбор отборочного этап(Казахский)"
+        "title": "Іріктеу. (Шешімдер)"
     }
 ]
