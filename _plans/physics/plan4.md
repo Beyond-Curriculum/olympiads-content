@@ -40,7 +40,7 @@
 * Логарифм
 * Графики функций
 * [Удобный сайт](https://www.desmos.com/calculator) для рисования функций
-*  [Почитать про функции в этой книге](https://cdn.bc-pf.org/resources/physics/math/Skanavi-elementarnaya_matematika.pdf)
+*  [Почитать про функции в этой книге](https://cdn.bc-pf.org/resources/physics/math/scanavi-elementarnaya_matematika.djvu)
 
 #### Координатные системы
 
