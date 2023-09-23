@@ -111,7 +111,7 @@
 
 **Источники:**
 
--   [Биология, Справочник для старшеклассников и поступающих в ВУЗы, Богданова Т. Л., Солодова Е.А.](https://cdn.bc-pf.org/resources/biology/General_biology/Bogdanova-Biologiya_Spravochnik.pdf)
+-   Биология, Справочник для старшеклассников и поступающих в ВУЗы, Богданова Т. Л., Солодова Е.А.
 -   Слайды Пименова А. В. по Зоологии и Ботанике.  
 
 ## 3. Анатомия и физиология человека и основных групп животных
@@ -242,8 +242,8 @@
 
 **Источники:**
 
--   Анатомия: [Биология, Справочник для старшеклассников и поступающих в ВУЗы, Богданова Т. Л., Солодова Е.А.](https://cdn.bc-pf.org/resources/biology/General_biology/Bogdanova-Biologiya_Spravochnik.pdf)
--   Анатомия и физиология: [Биология: Т. 1,2 Грин Н., Стаут У., Тейлор](https://cdn.bc-pf.org/resources/biology/General_biology/Teylor-Biologiya_1.pdf)
+-   Анатомия: Биология, Справочник для старшеклассников и поступающих в ВУЗы, Богданова Т. Л., Солодова Е.А.
+-   Анатомия и физиология: Биология: Т. 1,2 Грин Н., Стаут У., Тейлор
 
 
 
@@ -325,7 +325,7 @@
 
 **Источники:**
 
--   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf)
+-   Campbell Biology 11 издание, Урри М. и Кейн М.
 
 
 
@@ -361,4 +361,4 @@
 
 **Источники:**
 
--   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf)
+-   Campbell Biology 11 издание, Урри М. и Кейн М.

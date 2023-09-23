@@ -32,7 +32,7 @@
 
 ## Интересные статьи
 
-1. [How to write solutions by Evan Chen](https://cdn.bc-pf.org/resources/math/others/Evan_Chen-How_to_write_proofs.pdf).
+1. How to write solutions by Evan Chen.
 2. [How to write a solution by AoPS](https://artofproblemsolving.com/news/articles/how-to-write-a-solution).
 3. [IMO 2014 Journal by Evan Chen](https://web.evanchen.cc/handouts/IMO-2014/IMO-2014.pdf).
 
@@ -46,7 +46,7 @@
 6. [Constructing Diagrams by Evan Chen](https://web.evanchen.cc/handouts/Constructions/Constructions.pdf).
 
    **Комментарий:** советы о том, как стоит делать чертежи на задачах по геометрии.
-7. [Report on the Third Problem of IMO 2012 by Carlos di Fiore](https://cdn.bc-pf.org/resources/math/others/Carlos_di_Fiore-Liars_guessing_game.pdf).
+7. Report on the Third Problem of IMO 2012 by Carlos di Fiore.
 
    **Комментарий:** это доклад одного из членов жюри на IMO, увидевшего очень много различных способов решить одну и ту же задачу от учеников во время апелляции. Это статья стоит прочитать если вы уже решали [IMO 2012 P3](https://olympiads.bc-pf.org/math/s/imo/2012/problem3) и хотите увидеть её решения, либо если у вас есть время для решения и разбора одной задачи, но вы не знаете какую именно хотите порешать.
 

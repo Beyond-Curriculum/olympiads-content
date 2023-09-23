@@ -21,31 +21,31 @@
 
 По ходу этого модуля вы часто будете встречать две книги: *Euclidian Geometry in Mathematical Olympiads by Evan Chen* и *Lemmas in Olympiad Geometry by Titu Andreescu*. Поэтому хотим написать небольшие комментарии:
 
-1. **О книге [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf):**
+1. **О книге Euclidean Geometry in Mathematical Olympiads by Evan Chen:**
    Как и в любой книге в ней существуют ошибки, которые могут привести вас к ситуации, когда вы часами решаете неправильную задачу. С целью избежать таких казусов есть [специальный документ от Evan Chen’а](https://web.evanchen.cc/upload/geombook-errata.pdf) со всеми найденными ошибками, где красными отмечены фатальные ошибки полностью меняющее утверждение задачи. Как вы наверное успели заметить в книге к каждой задаче предлагается 5 подсказок, что делает эту книгу одной из лучших среди своих аналогов. Подсказки заменяют тренера, которые должен наводить своих учеников в правильном направлении в случае, если они “застряли” в задаче или остаются без идей. Настоятельно рекомендуем перед прочтением подсказки решать задачу определённое кол-во времени и читать их только тогда, когда они вам действительно нужны или вы уже минут десять сидите без идей. Как правило, вы должны находить решение задачи после 4-ой подсказки, а пятая подсказка должна быть только для тех случаев, когда задача была действительно сложной. Из наличия подсказок исходит, что вы не так часто должны прибегать к прочтению самих решений (кроме, конечно, случаев когда вы решили задачу и читаете её решение для ознакомления с идеями автора), но если вы все таки вынуждены прочитать решение, вы можете прибегнуть к помощи [страницы на AoPS именуемый как Contest Collections](https://artofproblemsolving.com/community/c13_contests), либо же специальному [форуму по обсуждению задач из EGMO](https://artofproblemsolving.com/community/c618937_euclidean_geometry_in_mathematical_olympiads).
-2. [Форум]((https://artofproblemsolving.com/community/c1213795_lemmas_in_olympiad_geometry_active_forum)) по обсуждению задач из [Lemmas in Olympiad Geometry by Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf).
+2. Форум]((https://artofproblemsolving.com/community/c1213795_lemmas_in_olympiad_geometry_active_forum)) по обсуждению задач из [Lemmas in Olympiad Geometry by Titu Andreescu.
 
 ## Счёт
 
 ### Счёт углов и подобие
 
-1. Chapter 1: Angle Chasing — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-2. [Constructions by Carl Joshua Quines](https://cdn.bc-pf.org/resources/math/geometry/Carl_Joshua_Quines-Constructions.pdf)
-3. [Similarity by Yufei Zhao](https://cdn.bc-pf.org/resources/math/geometry/Yufei_Zhao-Similarity.pdf)
+1. Chapter 1: Angle Chasing — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+2. Constructions by Carl Joshua Quines
+3. Similarity by Yufei Zhao
 
 ### Степень точки
 
-1. Chapter 2: Circles — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
+1. Chapter 2: Circles — Euclidean Geometry in Mathematical Olympiads by Evan Chen
 
-2. Chapter 1: Power of a Point — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+2. Chapter 1: Power of a Point — Lemmas in Olympiad Geometry bu Titu Andreescu
 
-	**Примечание:** Если вас интересует теорема о бабочке, то можете факультативно прочитать [статью про шесть доказательств теоремы о бабочке](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Gorskaya-butterfly_theorem.pdf).
+	**Примечание:** Если вас интересует теорема о бабочке, то можете факультативно прочитать статью про шесть доказательств теоремы о бабочке.
 
-3. [Degenerate Circles by Nathan Ramesh](https://cdn.bc-pf.org/resources/math/geometry/Nathan_Ramesh-Degenerate_Circles.pdf)
+3. Degenerate Circles by Nathan Ramesh
 
   **Примечание:** Точка это окружность с радиусом 0 !
 
-4. Chapter 3: Carnot and Radical Axes — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+4. Chapter 3: Carnot and Radical Axes — Lemmas in Olympiad Geometry bu Titu Andreescu
 
 ### Отношение сторон
 
@@ -53,109 +53,109 @@
 
 Для изучения этих материалов было бы полезным хотя бы знать что такое синус, косинус, тангенс, котангенс, а также такие теорему синусов и косинусов. Определение базовых тригонометрических функции через прямоугольный треугольник можно узнать в любом школьном учебнике, либо в [этом видео](https://www.youtube.com/watch?v=6b_olMJglXU). Про определение и доказательство теорем косинусов и синусов вы можете узнать в [этом видео](https://www.youtube.com/watch?v=xlTHWSl_DMk). Эти знания поверхностные, но достаточны для решения задач из этой подборки. Для более глубокого понимания рекомендуется посмотреть 2-х часовое видео [Бориса Трушина — Тригонометрические формулы](https://www.youtube.com/watch?v=oDBLJA-RDc8).
 
-1. Chapter 3: Lengths and Ratios — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-2. Chapter 5: Computational Geometry — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-3. Chapter 3: Ceva, Trig Ceva, Quadrilateral Ceva — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-4. Chapter 4: Menelaus Theorem — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-5. Chapter 6: Jacobi’s Theorem — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-6. [Ptolemy’s Sine Lemma by Fedir Yudin and Nikita Skybytskyi](https://cdn.bc-pf.org/resources/math/geometry/trigonometry/Yudin_Skybytskyi-Ptolemys_sine_lemma.pdf)
+1. Chapter 3: Lengths and Ratios — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+2. Chapter 5: Computational Geometry — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+3. Chapter 3: Ceva, Trig Ceva, Quadrilateral Ceva — Lemmas in Olympiad Geometry bu Titu Andreescu
+4. Chapter 4: Menelaus Theorem — Lemmas in Olympiad Geometry bu Titu Andreescu
+5. Chapter 6: Jacobi’s Theorem — Lemmas in Olympiad Geometry bu Titu Andreescu
+6. Ptolemy’s Sine Lemma by Fedir Yudin and Nikita Skybytskyi
 
 Вы уже решили все то, что нужно для решения многих задач на Республиканской олимпиаде и IMO. Не поверите, но даже за 10 и 11 классы на Республиканской олимпиаде приходят задачи где не нужно больше ничего знать кроме счета, уголков и подобий. Однако многие люди их не решают (как примеры [IZhO 2019 P4](https://olympiads.bc-pf.org/math/s/IZhO/2019/problem4)). Тем не менее, материалы идущие дальше будут ещё больше совершенствовать ваше умение решать геометрию, и ознакомят вас с новыми конструкциями и методами.
 
 ## Конструкции
 
-1. Chapter 4: Assorted Configurations — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
+1. Chapter 4: Assorted Configurations — Euclidean Geometry in Mathematical Olympiads by Evan Chen
 
-   **Примечание:** если вам понравилось последняя задача, то рекомендуется посмотреть сюжет о сложной и красивой [Задаче Ивлева](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Ivlevs-geometry_problem.pdf). Решения многих задач оттуда, а также некоторые обобщения можно встретить в предложенной статье.
+   **Примечание:** если вам понравилось последняя задача, то рекомендуется посмотреть сюжет о сложной и красивой Задаче Ивлева. Решения многих задач оттуда, а также некоторые обобщения можно встретить в предложенной статье.
 
-2. [Конструкция вокруг вписанной окружности Д. В. Швецова](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Incircle_construction.pdf)
+2. Конструкция вокруг вписанной окружности Д. В. Швецова
 
-3. Chapter 9: Symmedians — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+3. Chapter 9: Symmedians — Lemmas in Olympiad Geometry bu Titu Andreescu
 
-4. Chapter 14: Homothety — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+4. Chapter 14: Homothety — Lemmas in Olympiad Geometry bu Titu Andreescu
 
 А также обязательно решите для себя задачу 2015 USA TST P1, которая замечательно раскрывает конструкцию вокруг гомотетии между вписанной и вневписанной окружностями. К слову, в начале было удивление из-за того, что Evan Chen, будучи составителем этой задачи, не вставил её в свою книгу. Но как оказывается, это задача была включена в другую его статью, которая идёт следующей, и которую мы рекомендуем прочитать всем кто хочет понять как создаются задачи по геометрии. Она будет полезна не только для юных составителей задач, но и для олимпиадников, которые решают задачи от этих самых составителей.
 
-1. [Writing Olympiad Geometry Problems by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Writing_olympiad_geometry_problems.pdf)
+1. Writing Olympiad Geometry Problems by Evan Chen
 
 ## Описанные четырёхугольники
 
-1. [Нестандартные признаки описанности П. Кожевникова](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Kozhevnikov-Tangential_property_signs.pdf)
+1. Нестандартные признаки описанности П. Кожевникова
 
 ## Воробьями по пушкам
 
 Полянский в своей статье рассказывает про лёгкие и интересные леммы, которые порой решают сложные задачи и являются обязательным инструментом в арсенале любого геометра. Даже если вы этого не осознавали, все *воробьи* являются примерами поворотной гомотетии. Поэтому рекомендуем изучить воробьёв после изучения, так называемого *Spiral Similarity*, ибо это даст вам понимание природы этих лемм и того, что заложено в их корень.
 
-1. [Воробьями по пушкам А. Полянского](https://cdn.bc-pf.org/resources/math/geometry/sparrow_lemmas/Alexander_Polyanskii-Sparrows_problems.pdf)
+1. Воробьями по пушкам А. Полянского
 
-   **Примечание:** решение некоторых задач можете найти в [его статье из кванта](https://cdn.bc-pf.org/resources/math/geometry/sparrow_lemmas/Alexander_Polyanskii_Kvant-Sparrow_lemmas.pdf).
-2. [Generalization of a Problem with Isogonal Conjugate Point by Tran Quang Hung and Pham Huy Hoang](https://cdn.bc-pf.org/resources/math/geometry/sparrow_lemmas/Hung_Hoang-Isogonal_conjugate_points.pdf)
+   **Примечание:** решение некоторых задач можете найти в его статье из кванта.
+2. Generalization of a Problem with Isogonal Conjugate Point by Tran Quang Hung and Pham Huy Hoang
 
 ## Изогональное сопряжение
 
-1. Chapter 7: Isogonal Conjugates and Pedal Triangles — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+1. Chapter 7: Isogonal Conjugates and Pedal Triangles — Lemmas in Olympiad Geometry bu Titu Andreescu
 
-2. Section 2, 3: Isogonal Conjugation in Polygons: — [Advanced Lemmas in Geometry by Fedir Yudin](https://cdn.bc-pf.org/resources/math/geometry/isogonal_conjugates/Fedir_Yudin-Advanced_Lemmas_Isogonal_conjugation.pdf)
+2. Section 2, 3: Isogonal Conjugation in Polygons: — Advanced Lemmas in Geometry by Fedir Yudin
 
-  **Примечание:** Может быть дополнена третьей секцией — [A Few Configurations by Victor Rong](https://cdn.bc-pf.org/resources/math/geometry/Victor_Rong-Configurations.pdf)
+  **Примечание:** Может быть дополнена третьей секцией — A Few Configurations by Victor Rong
 
-3. Section 3: Isogonal Lemma — [Advanced Lemmas in Geometry by Fedir Yudin](https://cdn.bc-pf.org/resources/math/geometry/isogonal_conjugates/Fedir_Yudin-Advanced_Lemmas_Isogonal_conjugation.pdf)
+3. Section 3: Isogonal Lemma — Advanced Lemmas in Geometry by Fedir Yudin
 
 ## Геометрические преобразования
 
 ### Инверсия
 
-1. Chapter 8: Inversion — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-2. Chapter 15: Inversion — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+1. Chapter 8: Inversion — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+2. Chapter 15: Inversion — Lemmas in Olympiad Geometry bu Titu Andreescu
 
-Если вы не полностью можете понять некоторые решения, тогда вы можете почитать другие решения с инверсией с AoPS или со статьи [Оразалина Алибека](https://cdn.bc-pf.org/resources/math/geometry/Orazalin_Alibek_Inversion.pdf). Большинство проблем возникают, когда начинают использовать свойства композиции инверсии с центральной симметрией, либо композиции инверсии с симметрией относительно биссектрисы угла треугольника. Просто помните, что если условие $X$ сохраняется после обоих движений плоскости, тогда она сохраняется и при их композиции.
+Если вы не полностью можете понять некоторые решения, тогда вы можете почитать другие решения с инверсией с AoPS или со статьи Оразалина Алибека. Большинство проблем возникают, когда начинают использовать свойства композиции инверсии с центральной симметрией, либо композиции инверсии с симметрией относительно биссектрисы угла треугольника. Просто помните, что если условие $X$ сохраняется после обоих движений плоскости, тогда она сохраняется и при их композиции.
 
 ### Проективная геометрия
 
-1. Chapter 9: Projective Geometry — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-2. Chapter 5: Desargues and Pascal — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-3. Chapter 10: Harmonic Divisions — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-4. Chapter 11: Appendix A: Some Generalizations of Blanchet’s Theorem — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-5. Chapter 12: Poles and Polars — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-6. Chapter 13: Appendix B: An Incircle Related Perpendicularity — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+1. Chapter 9: Projective Geometry — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+2. Chapter 5: Desargues and Pascal — Lemmas in Olympiad Geometry bu Titu Andreescu
+3. Chapter 10: Harmonic Divisions — Lemmas in Olympiad Geometry bu Titu Andreescu
+4. Chapter 11: Appendix A: Some Generalizations of Blanchet’s Theorem — Lemmas in Olympiad Geometry bu Titu Andreescu
+5. Chapter 12: Poles and Polars — Lemmas in Olympiad Geometry bu Titu Andreescu
+6. Chapter 13: Appendix B: An Incircle Related Perpendicularity — Lemmas in Olympiad Geometry bu Titu Andreescu
 
 ### Спиральная симметрия
 
-1. Chapter 19: Complete Quadrilaterals — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-2. Chapter 10: Complete Quadrilaterals — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-3. [On a special center of spiral similarity by Jafet Baca](https://cdn.bc-pf.org/resources/math/geometry/spiral_similarity/Jafet_Baca-Spiral_similarity.pdf)
+1. Chapter 19: Complete Quadrilaterals — Lemmas in Olympiad Geometry bu Titu Andreescu
+2. Chapter 10: Complete Quadrilaterals — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+3. On a special center of spiral similarity by Jafet Baca
 
 Рекомендуется сбалансированно совмещать [1] и [2], т. е. сначала решать [1] до *Delta 19.7,* а затем переключится на [2] и решать её пока не застрянете, потом снова [1] пока не застрянете и т. д.
 
 ## Полувписанные окружности
 
-1. Chapter 4: Assorted Configurations — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-2. Chapter 17: Mixtilinear and Curvilinear Incircles — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
-3. [A Guessing Game: Mixtilinear Incircles by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/mixtilinear_circles/Evan_Chen-Mixtilinear_Incircles.pdf)
+1. Chapter 4: Assorted Configurations — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+2. Chapter 17: Mixtilinear and Curvilinear Incircles — Lemmas in Olympiad Geometry bu Titu Andreescu
+3. A Guessing Game: Mixtilinear Incircles by Evan Chen
 
    **Примечание:** тут больше всего интересны философское вступление и элемент игры в угадывание.
 
-4. [On mixtilinear incircles by Jafet Baca](https://cdn.bc-pf.org/resources/math/geometry/mixtilinear_circles/Jafet_Baca-Mixtilinear_incircles.pdf)
+4. On mixtilinear incircles by Jafet Baca
 
    **Примечание:** эта шикарная статья, и она отлично дополняет оставшиеся; также у неё достаточно сложные задачи в конце.
 
 ## Конструкции 2
 
-1. [Two applications of a Lemma on Intersecting Circles by Vladimir Dubrovsky](https://cdn.bc-pf.org/resources/math/geometry/spiral_similarity/Dubrovsky-Intersecting_circles.pdf)
+1. Two applications of a Lemma on Intersecting Circles by Vladimir Dubrovsky
 
-2. [Special Point on a Median by Anant Mudgal, Gunmay Handy](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Mudgal_Handa-Special_point_on_the_Median.pdf)
+2. Special Point on a Median by Anant Mudgal, Gunmay Handy
 
-3. [A point with Many Properties by Yimin Ge](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Yimin_Ge-notable_point.pdf)
+3. A point with Many Properties by Yimin Ge
 
-4. [Ортоцентр, середина стороны, точка пересечения касательных и еще одна точка Ю. Блинкова](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/MatKruzhok-Orthocenter.pdf)
+4. Ортоцентр, середина стороны, точка пересечения касательных и еще одна точка Ю. Блинкова
 
-5. Chapter 16: The Monge-D'Alembert Circle Theorem — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+5. Chapter 16: The Monge-D'Alembert Circle Theorem — Lemmas in Olympiad Geometry bu Titu Andreescu
 
-6. Chapter 8: Simson and Steiner— [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+6. Chapter 8: Simson and Steiner— Lemmas in Olympiad Geometry bu Titu Andreescu
 
-7. Chapter 21: Apollonian Circles and Isodynamic Points — [Lemmas in Olympiad Geometry bu Titu Andreescu](https://cdn.bc-pf.org/resources/math/geometry/Andreescu_Korsky_Pohoata-Lemmas_in_olympiad_geometry.pdf)
+7. Chapter 21: Apollonian Circles and Isodynamic Points — Lemmas in Olympiad Geometry bu Titu Andreescu
 
-8. [About geometric problem in Sharygin contest 2015 by Tran Quang Hung](https://cdn.bc-pf.org/resources/math/geometry/miscellaneous/Tran_Quang_Hung-Sharygin_2015.pdf)
+8. About geometric problem in Sharygin contest 2015 by Tran Quang Hung
 
 ## BASH!
 
@@ -163,17 +163,17 @@
 
 ### Барицентрические координаты
 
-1. Chapter 7: Barycentric Coordinates — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
-2. [Barycentric Coordinates in Olympiad Geometry by Max Schindler, Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/bash/Evan_Chen-Barycentric_Coordinates.pdf)
+1. Chapter 7: Barycentric Coordinates — Euclidean Geometry in Mathematical Olympiads by Evan Chen
+2. Barycentric Coordinates in Olympiad Geometry by Max Schindler, Evan Chen
 
 ### Комплексные координаты
 
-1. Chapter 6: Complex Numbers — [Euclidean Geometry in Mathematical Olympiads by Evan Chen](https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
+1. Chapter 6: Complex Numbers — Euclidean Geometry in Mathematical Olympiads by Evan Chen
 
 ### Метод анимации
 
-1. [The Method of Moving Points by Vladyslav Zveryk](https://cdn.bc-pf.org/resources/math/geometry/bash/Vladyslav_Zveryk-The_Method_of_Moving_Points.pdf)
+1. The Method of Moving Points by Vladyslav Zveryk
 
    **Примечание:** можете посмотреть [форум по обсуждению задач](https://artofproblemsolving.com/community/c1183199h2127280_vladyslav_zveryks_handouts_problem_links) из Moving Points by Vladyslav Zveryk.
 
-2. [The Method of Animation by Zack Chroman, Gopal K. Goel, Anant Mudgal AoPS](https://cdn.bc-pf.org/resources/math/geometry/bash/Chroman_Goel_Mudgal-The_Method_of_Animation.pdf)
+2. The Method of Animation by Zack Chroman, Gopal K. Goel, Anant Mudgal AoPS

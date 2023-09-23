@@ -20,78 +20,78 @@
 
 
 ## База
-1. Глава 3: Алгоритм Евклида и основная теорема Арифметики — [Алгебра и Теория для Математических Школ от Н.Б. Алфутова, А. В Устинова](https://cdn.bc-pf.org/resources/math/number_theory/Alfutova-Algebra_and_Number_Theory.pdf) (без чисел Люка и Цепных дробей)
-2. Глава 4: Арифметика Остатков — [Алгебра и Теория для Математических Школ от Н.Б. Алфутова, А. В Устинова](https://cdn.bc-pf.org/resources/math/number_theory/Alfutova-Algebra_and_Number_Theory.pdf)
-3. Chapter 1: Divisibility — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
-4. Chapter 2: Divisibility — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-5. Chapter 2: Modular Arithmetic — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
-6. Chapter 2: Powers of Integers — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-7. Chapter 3: Floor Function and Fractional Steps — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-8. Chapter 4: Digits of Numbers — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
+1. Глава 3: Алгоритм Евклида и основная теорема Арифметики — Алгебра и Теория для Математических Школ от Н.Б. Алфутова, А. В Устинова (без чисел Люка и Цепных дробей)
+2. Глава 4: Арифметика Остатков — Алгебра и Теория для Математических Школ от Н.Б. Алфутова, А. В Устинова
+3. Chapter 1: Divisibility — Olympiad Number Theory Through Challenging Problems by Justin Stevens
+4. Chapter 2: Divisibility — Number Theory: Structures, Examples, and Problems by Titu Andreescu
+5. Chapter 2: Modular Arithmetic — Olympiad Number Theory Through Challenging Problems by Justin Stevens
+6. Chapter 2: Powers of Integers — Number Theory: Structures, Examples, and Problems by Titu Andreescu
+7. Chapter 3: Floor Function and Fractional Steps — Number Theory: Structures, Examples, and Problems by Titu Andreescu
+8. Chapter 4: Digits of Numbers — Number Theory: Structures, Examples, and Problems by Titu Andreescu
 
-   **Примечание:** эта статья также может быть дополнена Chapter 16: Sum of Digits — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book_2.pdf).
+   **Примечание:** эта статья также может быть дополнена Chapter 16: Sum of Digits — Problems from the Book by Titu Andreescu.
 
-9. Chapter 5: Basic Principles in Number Theory — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-10. Chapter 3: $p$-adic Valuation — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
-11. Chapter 7: More on Divisibility — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-12. [Lifting the Exponent Lemma by Amir Hossein Parvardi](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Amir_Hossein-Lifting_The_Exponent.pdf). Решения: [solutions](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Amir_Hossein-Lifting_The_Exponent_Solutions.pdf).
+9. Chapter 5: Basic Principles in Number Theory — Number Theory: Structures, Examples, and Problems by Titu Andreescu
+10. Chapter 3: $p$-adic Valuation — Olympiad Number Theory Through Challenging Problems by Justin Stevens
+11. Chapter 7: More on Divisibility — Number Theory: Structures, Examples, and Problems by Titu Andreescu
+12. Lifting the Exponent Lemma by Amir Hossein Parvardi. Решения: solutions.
 
-13. Chapter 5: Problem Solving Strategies — [Olympiad Number Theory Through Challenging Problems by Justin Stevens](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-NT_through_challenging_problems.pdf)
+13. Chapter 5: Problem Solving Strategies — Olympiad Number Theory Through Challenging Problems by Justin Stevens
 
 ## Китайская теорема об остатках
-1. [The Chinese Remainder Theorem by Evan Chen](https://cdn.bc-pf.org/resources/math/number_theory/Evan_Chen-CRT.pdf)
-2. Chapter 7.1: Chinese Remainder Theorem — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
+1. The Chinese Remainder Theorem by Evan Chen
+2. Chapter 7.1: Chinese Remainder Theorem — Number Theory: Structures, Examples, and Problems by Titu Andreescu
 
 ## Степени в теории чисел
 Под эту категорию я вставил все, что связано $a^n, a^n-b^n, a^n+b^n$ под определёнными модулями. Сюда входят теорема Эйлера, показатели, первообразные корни и так далее. Это почти что базовый инструмент в теории чисел. Им очень легко овладеть, достаточно решить достаточное количество задач на эту тему, чтобы понять природу поведения экспонент в теории чисел.
-1. [A Note on the Carmichael Function by Yimin Ge](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Yimin_Ge-Carmichael_Function.pdf)
-2. [Exponents and Primes by Alexander Remorov](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Alexander_Remorov-Exponents_and_Primes.pdf)
+1. A Note on the Carmichael Function by Yimin Ge
+2. Exponents and Primes by Alexander Remorov
 
-Подсказки: [hints](https://cdn.bc-pf.org/resources/math/number_theory/exponents/Alexander_Remorov-Exponents_and_Primes_Solutions.pdf)
+Подсказки: hints
 
    **Примечание:** главное для вас это решить последние 12 задач.
-3. [Remainder of $Aa^x+B^x$ by Yimin Ge](https://cdn.bc-pf.org/resources/math/number_theory/Yimin_Ge-Remainders_of_Exponents.pdf)
+3. Remainder of $Aa^x+B^x$ by Yimin Ge
 
 ## Первообразные корни
-1. Chapter 7.3.3: Primitive Roots modulo \(n\) — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
-2. [3 Problems on Primitive Roots](https://cdn.bc-pf.org/resources/math/number_theory/Primitive_roots.pdf)
+1. Chapter 7.3.3: Primitive Roots modulo \(n\) — Number Theory: Concepts and Problems by Titu Andreescu
+2. 3 Problems on Primitive Roots
 
 ## $p$-adic evaluation
-1. Chapter 6.1: The yoga of $p$-adic valuations — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
-2. Chapter 6.2: Legendre's Formula — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
+1. Chapter 6.1: The yoga of $p$-adic valuations — Number Theory: Concepts and Problems by Titu Andreescu
+2. Chapter 6.2: Legendre's Formula — Number Theory: Concepts and Problems by Titu Andreescu
 
 ## Квадратичный закон взаимности
 Это тоже одна из технических вещей, которые надо знать, если задача на такую тему придет на олимпиаде (например [Республиканская олимпиада за 2019 год, шестая задача, 10 класс](https://olympiads.bc-pf.org/math/national/2019/10/problem6)).
 
-1. Chapter 9.1: Quadratic Residues; the Legendre Symbol — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
-2. Chapter 18: Quadratic Residue — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book_2.pdf)
-3. Chapter 5.4: Quadratic residues and quadratic reciprocity — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
+1. Chapter 9.1: Quadratic Residues; the Legendre Symbol — Number Theory: Structures, Examples, and Problems by Titu Andreescu
+2. Chapter 18: Quadratic Residue — Problems from the Book by Titu Andreescu
+3. Chapter 5.4: Quadratic residues and quadratic reciprocity — Number Theory: Concepts and Problems by Titu Andreescu
 
 ## Циклотомические многочлены
 
-1. [Cyclotomic Polynomials In Number Theory by Lawrence Sun](https://cdn.bc-pf.org/resources/math/number_theory/exponents/сyclotomic_polynomials/Lawrence_Sun-Cyclotomic_Polynomials.pdf)
-2. [Elementary Properties of Cyclotomic Polynomials by Yimin Ge](https://cdn.bc-pf.org/resources/math/number_theory/exponents/сyclotomic_polynomials/Yimin_Ge-Elementary_Properties_of_Cyclotomic_Polynomials.pdf)
+1. Cyclotomic Polynomials In Number Theory by Lawrence Sun
+2. Elementary Properties of Cyclotomic Polynomials by Yimin Ge
 
 ## Арифметические функции
 Скорее всего, задачи на эту тему не придут на олимпиадах. Но если вам будет интересно как ведут себя мультипликативные функции в задачах олимпиадного характера, то можете посмотреть вот это:
-1. Chapter 6.1: Multiplicative functions — [Number Theory: Structures, Examples, and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-Number_Theory_Structures_Examples_and_Problems.pdf)
+1. Chapter 6.1: Multiplicative functions — Number Theory: Structures, Examples, and Problems by Titu Andreescu
 
    **Примечание:** теорию рекомендуем посмотреть.
-2. Chapter 4.4: Arithmetic functions — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
+2. Chapter 4.4: Arithmetic functions — Number Theory: Concepts and Problems by Titu Andreescu
 
    **Примечание:** опционально, однако посмотреть задачи однозначно стоит.
 
 ## Разное
-1. [A Nice Lemma in Congruence (Thue’s Lemma) by Masum Billal](https://cdn.bc-pf.org/resources/math/number_theory/Masum_Billal-A_Nice_Lemma_In_Congruence.pdf)
-2. [Residue Classes with order 1 or 2 and a Generalization of Wilson’s Theorem by Yimin Ge](https://cdn.bc-pf.org/resources/math/number_theory/Yimin_Ge-Generalized_Wilson.pdf)
-3. [Polynomial Division in Number Theory by James Rickards](https://cdn.bc-pf.org/resources/math/number_theory/James_Rickards-Polynomial_Division_in_NT.pdf)
-4. Chapter 5: Congruences involving prime numbers — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
-5. Chapter 17: At the Border of Analysis and Number Theory — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book_2.pdf)
+1. A Nice Lemma in Congruence (Thue’s Lemma) by Masum Billal
+2. Residue Classes with order 1 or 2 and a Generalization of Wilson’s Theorem by Yimin Ge
+3. Polynomial Division in Number Theory by James Rickards
+4. Chapter 5: Congruences involving prime numbers — Number Theory: Concepts and Problems by Titu Andreescu
+5. Chapter 17: At the Border of Analysis and Number Theory — Problems from the Book by Titu Andreescu
 
 ## Дополнительные источники
 Если у вас есть привычка на досуге читать математические статьи (не решая), тогда вы можете почитать эти. Также вы их можете порешать, они абсолютно факультативны.
 
-1. [Set of Articles by PEN 2008](https://cdn.bc-pf.org/resources/math/number_theory/Problems_in_Elementary_Number_Theory_2008.pdf)
-2. [Set of Articles by PEN 2009](https://cdn.bc-pf.org/resources/math/number_theory/Problems_in_Elementary_Number_Theory_2009.pdf)
-3. [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
-4. Chapter 3, 4 — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book_2.pdf)
+1. Set of Articles by PEN 2008
+2. Set of Articles by PEN 2009
+3. Number Theory: Concepts and Problems by Titu Andreescu
+4. Chapter 3, 4 — Problems from the Book by Titu Andreescu

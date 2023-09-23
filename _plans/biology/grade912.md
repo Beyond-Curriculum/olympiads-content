@@ -56,9 +56,9 @@
 
 **Источники:**
 
--   [Raven Biology, Kenneth A. Mason, Jonathan B. Losos, Susan R. Singer](https://cdn.bc-pf.org/resources/biology/General_biology/Raven-Biology_9th_Edition.pdf)
--   [Animal Diversity, Cleveland P. Hickman, Jr., Larry S. Roberts, Allan Larson](https://cdn.bc-pf.org/resources/biology/Zoology/Hickman-Animal_Diversity.pdf)
--   [Animal Physiology, Gordon A. Wyse, Margaret Anderson, Richard W. Hill](https://cdn.bc-pf.org/resources/biology/Zoology/Anderson-Animal_Physiology.pdf)
+-   Raven Biology, Kenneth A. Mason, Jonathan B. Losos, Susan R. Singer
+-   Animal Diversity, Cleveland P. Hickman, Jr., Larry S. Roberts, Allan Larson
+-   Animal Physiology, Gordon A. Wyse, Margaret Anderson, Richard W. Hill
 
 
 ## 2. Эволюция
@@ -103,7 +103,7 @@
 
 **Источники:**
 
--   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf)
+-   Campbell Biology 11 издание, Урри М. и Кейн М.
 
 
 ## 4. Анатомия и физиология растений
@@ -129,8 +129,8 @@
 
 **Источники:**
 
--   [Raven Biology, Kenneth A. Mason, Jonathan B. Losos, Susan R. Singer](https://cdn.bc-pf.org/resources/biology/General_biology/Raven-Biology_9th_Edition.pdf)
--   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf)
+-   Raven Biology, Kenneth A. Mason, Jonathan B. Losos, Susan R. Singer
+-   Campbell Biology 11 издание, Урри М. и Кейн М.
 
 
 ## 5. Генетика
@@ -182,9 +182,9 @@
 
 **Источники:**
 
--   [Schaum’s outlines of Genetics](https://cdn.bc-pf.org/resources/biology/Genetics/Elrod-Schaums_outlines_Genetics_5th_Edition.pdf)    
+-   Schaum’s outlines of Genetics    
 -   Brooker’s Genetics    
--   [Современная генетика, Ф. Айала, Дж. Кайгер.](https://cdn.bc-pf.org/resources/biology/Genetics/Ayala-Sovremennaya_Genetika_1.djvu)  
+-   Современная генетика, Ф. Айала, Дж. Кайгер.  
 -   Pierce Genetics
 
 
@@ -235,9 +235,9 @@
 
 **Источники:**
 
--   [Основы Биохимии Ленинджера(1 том), Д. Нельсон, М. Кокс.](https://cdn.bc-pf.org/resources/biology/Biochemistry/Nelson-Lehninger_Principles_of_Biochemistry_5th_Edition.pdf)     
--   [Quick Biochemistry basics YouTube канал](https://www.youtube.com/channel/UC5YJ_XQur-qsX3a-Aicz9Lw/videos)    
--   [Biochemistry, Berg, Tymozco, Stryer.](https://cdn.bc-pf.org/resources/biology/Biochemistry/Berg-Biochemistry.pdf)
+-   Основы Биохимии Ленинджера(1 том), Д. Нельсон, М. Кокс.     
+-   Quick Biochemistry basics YouTube канал    
+-   Biochemistry, Berg, Tymozco, Stryer.
 
 
 ## 7. Молекулярная биология
@@ -302,7 +302,7 @@
 
 **Источники:**
 
--   [Campbell Biology 11 издание, Урри М. и Кейн М.](https://cdn.bc-pf.org/resources/biology/General_biology/Urry-Campbell_Biology_11th_Edition.pdf)
+-   Campbell Biology 11 издание, Урри М. и Кейн М.
 
 
 ## 9. Статистика

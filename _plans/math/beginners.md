@@ -37,7 +37,7 @@
 
 **Ресурсы:**
 
-[В. П. Чулков, «Арифметические задачи»](https://cdn.bc-pf.org/resources/math/beginners/Chulkov-Arithmetic_problems.pdf)
+В. П. Чулков, «Арифметические задачи»
 
 ## Логические задачи
 
@@ -50,9 +50,9 @@
 
 **Ресурсы:**
 
-- [И. В. Раскина, Д. Э. Шноль, «Логические задачи»](https://cdn.bc-pf.org/resources/math/beginners/Raskina-Logical_problems.pdf)
-- [Н. В. Горбачев, “Сборник Олимпиадных Задач по Математике”](https://cdn.bc-pf.org/resources/math/combinatorics/Gorbachev-sbornik_zadach.pdf)
-- [А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+- И. В. Раскина, Д. Э. Шноль, «Логические задачи»
+- Н. В. Горбачев, “Сборник Олимпиадных Задач по Математике”
+- А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Чётность
 
@@ -65,9 +65,9 @@
 
 **Ресурсы:**
 
-- [Л. Е. Медников, «Четность»](https://cdn.bc-pf.org/resources/math/beginners/Mednikov-Chetnost.pdf)
-- [С.А.Генкин, И.В.Итенберг, Д.В.Фомин, «Ленинградские математические кружки»](https://cdn.bc-pf.org/resources/math/combinatorics/lenkruzhki.pdf)
-- [А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+- Л. Е. Медников, «Четность»
+- С.А.Генкин, И.В.Итенберг, Д.В.Фомин, «Ленинградские математические кружки»
+- А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Комбинаторика
 
@@ -81,8 +81,8 @@
 
 **Ресурсы:**
 
-- [С.А.Генкин, И.В.Итенберг, Д.В.Фомин, «Ленинградские математические кружки»](https://cdn.bc-pf.org/resources/math/combinatorics/lenkruzhki.pdf)
-- [А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+- С.А.Генкин, И.В.Итенберг, Д.В.Фомин, «Ленинградские математические кружки»
+- А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Графы
 
@@ -96,9 +96,9 @@
 
 **Ресурсы:**
 
-- [В. М. Гуровиц, В. В. Хорвина, «Графы»](https://cdn.bc-pf.org/resources/math/beginners/Gurovits-Graphs.pdf)
-- [О. И. Мельников, «Занимательные задачи по теории графов»](https://cdn.bc-pf.org/resources/math/beginners/Melnikov-Graphs.pdf)
-- [А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+- В. М. Гуровиц, В. В. Хорвина, «Графы»
+- О. И. Мельников, «Занимательные задачи по теории графов»
+- А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Теория чисел
 
@@ -116,8 +116,8 @@
 
 **Ресурсы:**
 
-[А. И. Сгибнев, «Делимость и простые числа»](https://cdn.bc-pf.org/resources/math/beginners/Sgibnev-Number_theory.pdf)
-[И. М. Виноградов, «Теория Чисел»](https://cdn.bc-pf.org/resources/math/beginners/Vinogradov-Number_Theory.pdf)
+А. И. Сгибнев, «Делимость и простые числа»
+И. М. Виноградов, «Теория Чисел»
 
 ## Принцип Дирихле
 
@@ -129,8 +129,8 @@
 
 **Ресурсы:**
 
-- [С. А. Генкин, И. В.Итенберг, Д. В. Фомин, «Ленинградские математические кружки»](https://cdn.bc-pf.org/resources/math/combinatorics/lenkruzhki.pdf)
-- [А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+- С. А. Генкин, И. В.Итенберг, Д. В. Фомин, «Ленинградские математические кружки»
+- А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Игры / Стратегии
 
@@ -143,8 +143,8 @@
 
 **Ресурсы:**
 
-- [С. А. Генкин, И. В.Итенберг, Д. В. Фомин, «Ленинградские математические кружки»](https://cdn.bc-pf.org/resources/math/combinatorics/lenkruzhki.pdf)
-- [А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+- С. А. Генкин, И. В.Итенберг, Д. В. Фомин, «Ленинградские математические кружки»
+- А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Инвариант
 
@@ -159,8 +159,8 @@
 
 **Ресурсы:**
 
-[С. А. Генкин, И. В.Итенберг, Д. В. Фомин, «Ленинградские математические кружки»](https://cdn.bc-pf.org/resources/math/combinatorics/lenkruzhki.pdf)
-[А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»](https://cdn.bc-pf.org/resources/math/beginners/Kanel-Belov_Kovaldji.pdf)
+С. А. Генкин, И. В.Итенберг, Д. В. Фомин, «Ленинградские математические кружки»
+А. Я. Канель-Белов, А. К. Ковальджи, «Как решают нестандартные задачи»
 
 ## Геометрия
 
@@ -180,8 +180,8 @@
 
 **Ресурсы:**
 
-- [И. Ф. Шарыгин, «Сборник задач по геометрии»](https://cdn.bc-pf.org/resources/math/beginners/Sharygin-3000_problems_in_geometry.pdf) (Обязательная книга)
-- [В. В. Прасолов, «Задачи по планиметрии»](https://cdn.bc-pf.org/resources/math/geometry/Prasolov-planimetry.pdf) (1, 2, 3 главы)
+- И. Ф. Шарыгин, «Сборник задач по геометрии» (Обязательная книга)
+- В. В. Прасолов, «Задачи по планиметрии» (1, 2, 3 главы)
 
 ## Неравенства
 
@@ -195,8 +195,8 @@
 
 **Ресурсы:**
 
-- [Н. М. Седракян, "Неравенства. Методы доказательства"](https://cdn.bc-pf.org/resources/math/beginners/Sedrakyan-Inequalities.pdf)
-- [Pham Kim Hung, Secrets In Inequalities](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf)
+- Н. М. Седракян, "Неравенства. Методы доказательства"
+- Pham Kim Hung, Secrets In Inequalities
 
 
 ### Интернет ресурсы

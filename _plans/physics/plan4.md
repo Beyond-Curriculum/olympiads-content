@@ -31,7 +31,7 @@
 *  Вектор и методы его представления
 *  Действия над векторами
 *  Координаты вектора
-*  [Почитать про вектора в этой книге](https://cdn.bc-pf.org/resources/physics/math/ryabushko-tom_1_sbornik_individualnyh_zadaniy_po_vyshei_matematike.djvu)
+*  Почитать про вектора в этой книге
 
 #### Функции
 
@@ -40,7 +40,7 @@
 * Логарифм
 * Графики функций
 * [Удобный сайт](https://www.desmos.com/calculator) для рисования функций
-*  [Почитать про функции в этой книге](https://cdn.bc-pf.org/resources/physics/math/scanavi-elementarnaya_matematika.djvu)
+*  Почитать про функции в этой книге
 
 #### Координатные системы
 
@@ -57,7 +57,7 @@
     -   Графики тригонометрических функций
     -   Сумма синусов и косинусов
     -   Теорема синусов и косинусов
--   Как подготовиться? Можно найти разные формулы тригонометрии и пытаться вывести их. Также можно заниматься по этой [книге](https://cdn.bc-pf.org/resources/physics/math/trigonometriya.pdf).
+-   Как подготовиться? Можно найти разные формулы тригонометрии и пытаться вывести их. Также можно заниматься по этой книге.
 
 ## 9 класс
 
@@ -73,8 +73,8 @@
 
 #### Книги
 
-* [Демидович, высшая математика](https://cdn.bc-pf.org/resources/physics/math/Demidovich-Kratkij_kurs_vysshej_matematiki.djvu)
-* [Томас, математический анализ](https://cdn.bc-pf.org/resources/physics/math/Thomas_Calculus.pdf)
+* Демидович, высшая математика
+* Томас, математический анализ
 
 ## 10 класс
 
@@ -87,5 +87,5 @@
 
 #### Книги
 
-* [Демидович, высшая математика](https://cdn.bc-pf.org/resources/physics/math/Demidovich-Kratkij_kurs_vysshej_matematiki.djvu)
-* [Томас, математический анализ](https://cdn.bc-pf.org/resources/physics/math/Thomas_Calculus.pdf)
+* Демидович, высшая математика
+* Томас, математический анализ

@@ -23,12 +23,12 @@
  - Математика &mdash; то, что нужно знать по математике
 
 # 3 уровень &mdash; уровень областной и республиканской олимпиады 10-12 класса
-#### Механика: [Сивухин](https://cdn.bc-pf.org/resources/physics/Theory/sivuhin-tom_1_mekhanika.pdf)
+#### Механика: Сивухин
 
 * Затухающие и вынужденные колебания
 * Сила Кориолиса
 
-#### Электричество: [Джанколи](https://cdn.bc-pf.org/resources/physics/Theory/Giancoli-physics_chapter_two.djvu)
+#### Электричество: Джанколи
 
 * Электрический диполь
 * Формула электрического диполя Сивухин
@@ -37,7 +37,7 @@
 * Колебания электрической цепи
 * Затухающие и вынужденные колебания
 
-#### Магнетизм: [Джанколи](https://cdn.bc-pf.org/resources/physics/Theory/Giancoli-physics_chapter_two.djvu/)
+#### Магнетизм: Джанколи
 
 * Магнитное поле
 * Теорема Гаусса для Магнитного поля
@@ -59,7 +59,7 @@
 * Уравнения Максвелла
 * Магнитный диполь
 
-#### Термодинамика: [Иродов](https://cdn.bc-pf.org/resources/physics/problem_sets/Irodov-Zadachi_po_obshchej_fizike_1_izd_1979.djvu)
+#### Термодинамика: Иродов
 
 * Уравнение состояния идеального газа (Менделеева-Клайперона)
 * Первое начало термодинамики
@@ -69,7 +69,7 @@
 * МКТ
 * Газ Ван-дер-Ваальса (реальный газ)
 
-#### Статистическая физика: [Иродов](https://cdn.bc-pf.org/resources/physics/problem_sets/Irodov-Zadachi_po_obshchej_fizike_1_izd_1979.djvu)
+#### Статистическая физика: Иродов
 
 * Распределение Максвелла
 * Средняя, среднеквадратичная и вероятная скорости и энергия
@@ -80,7 +80,7 @@
 * Фазовые переходы; диаграмма состоянии (уравнение Клайперона-Клаузиуса)
 * Поверхностное натяжение жидкости
 
-#### Специальная теория относительности: [Иродов](https://cdn.bc-pf.org/resources/physics/Theory/Irodov-fundamental_mechanical_laws.pdf)
+#### Специальная теория относительности: Иродов
 
 * Преобразования Лоренца
 * Постулаты СТО
@@ -100,15 +100,15 @@
 
 #### Механика
 
-- [Morin](https://cdn.bc-pf.org/resources/physics/Theory/Morin-introduction_to_classical_mechanics_with_problems_and_solutions_2004.pdf) (особенно рекомендуем его, так как там нет ничего лишнего и все очень понятно и интересно)
-- [Сивухин](https://cdn.bc-pf.org/resources/physics/Theory/sivuhin-tom_1_mekhanika.pdf)
+- Morin (особенно рекомендуем его, так как там нет ничего лишнего и все очень понятно и интересно)
+- Сивухин
 
 #### Термодинамика
 
-- [Сивухин](https://cdn.bc-pf.org/resources/physics/Theory/sivuhin-tom_2_termodinamika_i_molekulyarnaya_fizika.pdf)
-- [Concepts in thermal physics](https://cdn.bc-pf.org/resources/physics/Theory/Blundell-thermalphysics_2ed.pdf)
+- Сивухин
+- Concepts in thermal physics
 
 #### Электромагнетизм
 
-- [Purcell, Morin](https://cdn.bc-pf.org/resources/physics/Theory/Purcell-electricity_and_magnetism_3rd_edition.pdf)
-- [Сивухин](https://cdn.bc-pf.org/resources/physics/Theory/sivuhin-tom_3_elektrichestvo.pdf)
+- Purcell, Morin
+- Сивухин

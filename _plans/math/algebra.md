@@ -22,80 +22,80 @@
 ## Неравенства
 
 ### AM-GM
-1. Chapter 1: AM-GM Inequality — [Secrets in Inequalities by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf)
+1. Chapter 1: AM-GM Inequality — Secrets in Inequalities by Pham Kim Hung
 ### Cauchy-Schwartz
-1. Chapter 2: Cauchy-Schwarz and Hölder Inequalities — [Secrets in Inequalities by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf)
+1. Chapter 2: Cauchy-Schwarz and Hölder Inequalities — Secrets in Inequalities by Pham Kim Hung
 
-2. Chapter 2: Always Cauchy-Schwarz — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
+2. Chapter 2: Always Cauchy-Schwarz — Problems from the Book by Titu Andreescu
 
    **Примечание:** в этой книге рассматривается уже более нестандартные применения неравенства Cauchy-Schwarz
 
 
-3. Chapter 5: T2’s Lemma — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
+3. Chapter 5: T2’s Lemma — Problems from the Book by Titu Andreescu
 ### Алгебраические манипуляции
-1. Chapter 1: Point of Incident technique in AM-GM inequality (страницы 1-57) — [Diamonds in Mathematical Inequalities by Tran Phuong](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Tran_Phuong-Diamonds_Inequalities.pdf)
+1. Chapter 1: Point of Incident technique in AM-GM inequality (страницы 1-57) — Diamonds in Mathematical Inequalities by Tran Phuong
 
    **Примечание:** это глава о том, как правильно разложить выражение на слагаемые и применить AM-GM. Сама тема кажется тривиальной, но от этого не перестаёт быть важной. К слову, в [третьей задаче на IZhO 2020](https://olympiads.bc-pf.org/math/s/IZhO/2020/problem3) после применения базовой инверсии неравенство становится тривиальным с применением этой техники.
 
-2. Chapter 6: Method of Unbalanced Coefficients — [Secrets in Inequalities by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf)
+2. Chapter 6: Method of Unbalanced Coefficients — Secrets in Inequalities by Pham Kim Hung
 ### Чуть более продвинутые техники
-Тут рассмотрим разные техники и неравенства из книги [Secrets in Inequalities by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf) которые применяются реже, но могут встретится на олимпиаде
+Тут рассмотрим разные техники и неравенства из книги Secrets in Inequalities by Pham Kim Hung которые применяются реже, но могут встретится на олимпиаде
 1. Chapter 3: Chebyshev’s Inequality
 2. Chapter 5: Abel Formula and Rearrangement Inequality
 3. Chapter 8.1: Getting Started, Schur’s Inequality
 4. Chapter 8.3: Normalization Skill
 ### Частные случаи
-1. [Nice Identity](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Nice_Identity_problems.pdf). Решения: [solutions](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Excalibur-Nice_Identity.pdf).
-2. [On maximization of special function on the basis of given parameters by Sayan Mukherjee, Kolkata](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Mukherjee-Maximization.pdf)
-3. Chapter 1: Some Useful Substitutions — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
-4. [Square it! by Mathematical Excalibur](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Excalibur-Square_it.pdf)
+1. Nice Identity. Решения: solutions.
+2. On maximization of special function on the basis of given parameters by Sayan Mukherjee, Kolkata
+3. Chapter 1: Some Useful Substitutions — Problems from the Book by Titu Andreescu
+4. Square it! by Mathematical Excalibur
 ### Опционально
-1. [The Entirely Mixing Variables Method by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Mixing_variables.pdf)
+1. The Entirely Mixing Variables Method by Pham Kim Hung
 
-2. Chapter 4: Inequalities with Convex Functions — [Secrets in Inequalities by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf)
+2. Chapter 4: Inequalities with Convex Functions — Secrets in Inequalities by Pham Kim Hung
 
-3. [Muirhead’s Theorem](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Evan_Chen-Muirhead.pdf)
+3. Muirhead’s Theorem
 
    **Примечание:** статья состоит из *одной* задачи.
 
-4. [Касательные к функциям](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Tangent_functions.pdf)
+4. Касательные к функциям
 
-5. Chapter 8.4: Symmetric Separation — [Secrets in Inequalities by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Secrets_Inequalities.pdf)
+5. Chapter 8.4: Symmetric Separation — Secrets in Inequalities by Pham Kim Hung
 
    **Примечание:** это обобщение идеи касательных к функциям.
 
-6. [Majorization and Karamata’s Inequality by Pham Kim Hung](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Pham_Kim_Hung-Majorization_Karamata.pdf)
-7. [Simple Trigonometric Substitutions with Broad Results by Vardan Verdiyan, Daniel Campos Salas](https://cdn.bc-pf.org/resources/math/algebra/inequalities/Verdiyan_Salas-Trigonometric_substitutions.pdf)
+6. Majorization and Karamata’s Inequality by Pham Kim Hung
+7. Simple Trigonometric Substitutions with Broad Results by Vardan Verdiyan, Daniel Campos Salas
 ### Геометрические неравенства
 
 Геометрия в неравенствах используется на олимпиадах крайне редко, но в случае если такое неравенство все таки придет, вам будет достаточно знать единственную подстановку, решающую все задачи такого рода, называемая **Ravi Substitution**: если \(a, b, c\) стороны треугольника, то существует такие положительные $x, y, z$, что $a=x+y, b=y+z, c=z+x$. С этим знанием можете порешать [2-ую задачу на Республиканской олимпиаде](https://olympiads.bc-pf.org/math/national/2018/9/problem2) за 9 класс 2018-го года.
 
 ## Многочлены
 ### Многочлены с вещественными коэффициентами
-1. [Теория по многочленам](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Aibek_Myrzatay-Polynomials_theory.pdf)
+1. Теория по многочленам
 
-2. Chapter 2.7: Polynomials — [Intermediate Number Theory](https://cdn.bc-pf.org/resources/math/number_theory/Justin_Stevens-Intermediate_NT.pdf)
+2. Chapter 2.7: Polynomials — Intermediate Number Theory
 
    **Примечание:** Chapter 2.8 решать не стоит.
 
-3. Section 1: Algebra — [Polynomials by Alexander Remorov](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Alexander_Remorov-Polynomials.pdf)
-4. Chapter 11: Lagrange Interpolation Formula — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
+3. Section 1: Algebra — Polynomials by Alexander Remorov
+4. Chapter 11: Lagrange Interpolation Formula — Problems from the Book by Titu Andreescu
 ### Многочлены с целыми коэффициентами
-1. Chapter 6: Polynomial — [Functional Equations by Pang Chen Wu](https://cdn.bc-pf.org/resources/math/algebra/fe/Pang_Cheng_Wu-FE.pdf)
+1. Chapter 6: Polynomial — Functional Equations by Pang Chen Wu
 
-2. [Integer Polynomials by Yufei Zhao](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Yufei_Zhao-Integer_Polynomials.pdf)
+2. Integer Polynomials by Yufei Zhao
 
    **Примечание:** Тут рассказывается про неприводимость целочисленных многочленов.
 
-3. Section 2: Number Theory — [Polynomials by Alexander Remorov](https://cdn.bc-pf.org/resources/math/algebra/polynomials/Alexander_Remorov-Polynomials.pdf)
+3. Section 2: Number Theory — Polynomials by Alexander Remorov
 
-4. Chapter 2.2: Induction and Binomial Coefficients — [Number Theory: Concepts and Problems by Titu Andreescu](https://cdn.bc-pf.org/resources/math/number_theory/Titu_Andreescu-NT_Concepts_Problems.pdf)
+4. Chapter 2.2: Induction and Binomial Coefficients — Number Theory: Concepts and Problems by Titu Andreescu
 
    **Примечание:** тут рассказывается про биномиальные коэффициенты, а также то, как они собою производят все целочисленные многочлены. Целочисленные многочлены — множество многочлены с целыми значениями в целых точках, включающие в себя целочисленные многочлены.
 
-5. Chapter 10: Arithmetic Properties of Polynomials — [Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
+5. Chapter 10: Arithmetic Properties of Polynomials — Problems from the Book by Titu Andreescu
 ### Опционально
-[Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf)
+Problems from the Book by Titu Andreescu
 
 1. Chapter 23: Some Special Applications Polynomials
 
@@ -105,7 +105,7 @@
 
 Здесь дано даже больше ресурсов чем вам нужно для решения обычных задач на олимпиаде. Не забывайте, что всякую тему надо тренировать на задачах из международных и национальных олимпиад, а также на задачах из [IMO Short List](https://olympiads.bc-pf.org/math/s/imo).
 ## Функциональные уравнения
-1. [Functional Equations by Pang Chen Wu](https://cdn.bc-pf.org/resources/math/algebra/fe/Pang_Cheng_Wu-FE.pdf)
+1. Functional Equations by Pang Chen Wu
 
 У вас мог возникнуть вопрос: "почему тут только одна книга?" или "почему так мало?". Все дело в том, что почти все функциональные уравнения описываются как “подстановка, рассуждения”, “подстановка, рассуждения”, … и так до окончательного решения. Особенных и при этом часто используемых техник в функциональных уравнениях очень мало, поэтому нашёлся человек, который решил их всех описать в одной книге. После изучения этой книги вы становитесь очень умелым алгебраистом в контексте фур. Но если вы считаете, что этого недостаточно, тогда рекомендуем решать задачи с IMO SL, USAMO, USA TSTST, USA TST, China MO, China TST и т. д. Также
 
@@ -161,32 +161,32 @@ And then we won accidentally three times (2015, 2016, 2018).”
 Для начала прочитайте определение следующих терминов: [поле](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5), [кольцо](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)#:~:text=%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%CC%81%20(%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE)%20%D0%B2,%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9%2C%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5), [векторное пространство](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE).
 
 1. Chapter 9: Vector Spaces — [An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf)
-2. Lecture 1: Matrix-Vector Multiplication — [Numerical Linear Algebra by Lloyd Trefethen and David Paul](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
+2. Lecture 1: Matrix-Vector Multiplication — Numerical Linear Algebra by Lloyd Trefethen and David Paul
 4. Chapter 10: Eigen Things — [An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf)
-5. Lecture 2: Orthogonal Vectors and Matrices — [Numerical Linear Algebra by Lloyd Trefethen and David Paul](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
+5. Lecture 2: Orthogonal Vectors and Matrices — Numerical Linear Algebra by Lloyd Trefethen and David Paul
 
-[Essential Linear Algebra by Titu Andreescu](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Titu_Andeescu-Essential_Linear_Algebra.pdf):
+Essential Linear Algebra by Titu Andreescu:
 
 6. Chapter 3: Matrices and Linear Equations
 7. Chapter 4: Vector spaces and subspaces
 8. Chapter 5: Linear Transformations
 9. Chapter 7: Determinants
-10. Lecture 3: Norms — [Numerical Linear Algebra by Lloyd Trefethen and David Paul](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
+10. Lecture 3: Norms — Numerical Linear Algebra by Lloyd Trefethen and David Paul
 11. Chapter 12: Determinant — [An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf)
 12. Chapter 13: Inner Product Spaces — [An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf)
 
 ### Применение в олимпиадных задачах:
-1. Summer 2015 Camp Training Canada — [Vector Space Over Z/2Z](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Vector_Spaces.pdf)
-2. [Algebraic Methods in Combinatorics by Po Sheh Loh](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Po_Shen_Loh-Algebra_in_Combinatorics.pdf) (обязательно к решению)
+1. Summer 2015 Camp Training Canada — Vector Space Over Z/2Z
+2. Algebraic Methods in Combinatorics by Po Sheh Loh (обязательно к решению)
 3. Yufei Zhao’s articles:
-    - [Algebraic Techniques in Combinatorics](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Yufei_Zhao-Algebra_in_Combinatorics.pdf)
-    - [Linear Algebra Tricks for the Putnam](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Yufei_Zhao-Tricks.pdf)
-    - [Determinants, Evaluation and Manipulation](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Yufei_Zhao-Determinants.pdf)
+    - Algebraic Techniques in Combinatorics
+    - Linear Algebra Tricks for the Putnam
+    - Determinants, Evaluation and Manipulation
 
 ### Подборки задач на линейную алгебру из ТЧ/Алгебры:
-[Problems from the Book by Titu Andreescu](https://cdn.bc-pf.org/resources/math/others/Andreescu_Dospinescu-Problems_from_the_Book.pdf):
+Problems from the Book by Titu Andreescu:
 1. Chapter 9: A Brief Introduction to Algebraic Number Theory
 2. Chapter 12: A Higher Algebra in Combinatorics
 
 ## Другое
-1. [On the $1^k+2^k+...+n^k$ by Aibek Myrzatay](https://cdn.bc-pf.org/resources/math/algebra/others/Aibek-special_sum.pdf)
+1. On the $1^k+2^k+...+n^k$ by Aibek Myrzatay

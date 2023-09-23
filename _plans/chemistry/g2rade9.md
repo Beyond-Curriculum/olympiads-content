@@ -21,7 +21,7 @@
 ### Основные понятия органической химии
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 15.
+1. **Хомченко. Пособие по химии**. Глава 15.
 2. Онлайн учебник Фоксфорд
 - [Особенности строения атома углерода](https://foxford.ru/wiki/himiya/osobennosti-stroeniya-atoma-ugleroda)
 - [Гибридизация орбиталей](https://foxford.ru/wiki/himiya/gibridizatsiya-orbitaley)
@@ -40,7 +40,7 @@
 ### Алканы
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 16.
+1. **Хомченко. Пособие по химии**. Глава 16.
 2. Онлайн учебник Фоксфорд
 - [Гомологический ряд алканов и циклоалканов](https://foxford.ru/wiki/himiya/gomologicheskiy-ryad-alkanov-i-tsikloalkanov)
 - [Химические свойства алканов и циклоалканов](https://foxford.ru/wiki/himiya/himicheskie-svoystva-alkanov-i-tsikloalkanov)
@@ -51,7 +51,7 @@
 ### Алкены
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 16.
+1. **Хомченко. Пособие по химии**. Глава 16.
 2. Онлайн учебник Фоксфорд
 - [Гомологический ряд алкенов](https://foxford.ru/wiki/himiya/gomologicheskiy-ryad-alkenov)
 - [Химические свойства алкенов](https://foxford.ru/wiki/himiya/himicheskie-svoystva-alkenov)
@@ -65,7 +65,7 @@
 ### Алкины
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 16.
+1. **Хомченко. Пособие по химии**. Глава 16.
 2. Онлайн учебник Фоксфорд
 - [Строение, номенклатура и изомерия алкинов](https://foxford.ru/wiki/himiya/stroenie-nomenklatura-i-izomeriya-alkinov)
 - [Химические свойства алкинов](https://foxford.ru/wiki/himiya/himicheskie-svoystva-alkinov)
@@ -74,7 +74,7 @@
 ### Арены
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 16.
+1. **Хомченко. Пособие по химии**. Глава 16.
 2. Онлайн учебник Фоксфорд
 - [Гомологический ряд аренов](https://foxford.ru/wiki/himiya/gomologicheskiy-ryad-arenov)
 - [Химические свойства аренов](https://foxford.ru/wiki/himiya/himicheskie-svoystva-arenov)
@@ -85,7 +85,7 @@
 ### Спирты и фенолы
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 17.
+1. **Хомченко. Пособие по химии**. Глава 17.
 2. Онлайн учебник Фоксфорд
 - [Строение, классификация и номенклатура спиртов](https://foxford.ru/wiki/himiya/stroenie-klassifikatsiya-i-nomenklatura-spirtov)
 - [Химические свойства спиртов](https://foxford.ru/wiki/himiya/himicheskie-svoystva-spirtov)
@@ -99,7 +99,7 @@
 ### Альдегиды и Кетоны
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 17.
+1. **Хомченко. Пособие по химии**. Глава 17.
 2. Онлайн учебник Фоксфорд
 - [Гомологические ряды альдегидов и кетонов](https://foxford.ru/wiki/himiya/gomologicheskie-ryady-aldegidov-i-ketonov)
 - [Химические свойства карбонильных соединений](https://foxford.ru/wiki/himiya/himicheskie-svoystva-karbonilnyh-soedineniy)
@@ -108,7 +108,7 @@
 ### Карбоновые кислоты и их производные
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 17.
+1. **Хомченко. Пособие по химии**. Глава 17.
 2. Онлайн учебник Фоксфорд
 - [Строение и номенклатура карбоновых кислот](https://foxford.ru/wiki/himiya/stroenie-i-nomenklatura-karbonovyh-kislot)
 - [Химические свойства карбоновых кислот](https://foxford.ru/wiki/himiya/himicheskie-svoystva-karbonovyh-kislot)
@@ -118,14 +118,14 @@
 ### Простые эфиры и эпоксиды
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 17.
+1. **Хомченко. Пособие по химии**. Глава 17.
 2. Онлайн учебник Фоксфорд
 - [Простые эфиры и эпоксиды](https://foxford.ru/wiki/himiya/prostye-efiry-epoksidy)
 
 ### Сложные эфиры
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 17.
+1. **Хомченко. Пособие по химии**. Глава 17.
 2. Онлайн учебник Фоксфорд
 - [Сложные эфиры](https://foxford.ru/wiki/himiya/slozhnye-efiry)
 - [Жиры и масла](https://foxford.ru/wiki/himiya/zhiry-i-masla)
@@ -134,7 +134,7 @@
 ### Амины и азотсодержащие соединения
 
 **Ресурсы**:
-1. **[Хомченко. Пособие по химии](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Homchenko_posobiye_po_khimii.pdf)**. Глава 18.
+1. **Хомченко. Пособие по химии**. Глава 18.
 2. Онлайн учебник Фоксфорд
 - [Амины. Анилин](https://foxford.ru/wiki/himiya/aminy-anilin)
 - [Химические свойства аминов](https://foxford.ru/wiki/himiya/himicheskie-svoystva-aminov)
@@ -164,7 +164,7 @@
 - Законом Гесса
 
 **Ресурсы**:
-1. Для знакомства с термохимией как нельзя лучше подойдет учебник В.В.Еремина **[Теоретическая и Математическая химия](https://cdn.bc-pf.org/resources/chemistry/phys_chem/Eremin_teor_mat_himiya.pdf)** (более подробно о нем написано в плане для 10-12 классов), а именно Глава 3, параграф 1. Тепловые эффекты химических реакций. И конечно не забудь прорешать задачи в конце данного параграфа для закрепления материала.
+1. Для знакомства с термохимией как нельзя лучше подойдет учебник В.В.Еремина **Теоретическая и Математическая химия** (более подробно о нем написано в плане для 10-12 классов), а именно Глава 3, параграф 1. Тепловые эффекты химических реакций. И конечно не забудь прорешать задачи в конце данного параграфа для закрепления материала.
 
 ### Скорость химической реакции
 
@@ -174,7 +174,7 @@
 - Уравнением Вант-Гоффа
 
 **Ресурсы**:
-1. **[Теоретическая и Математическая химия](https://cdn.bc-pf.org/resources/chemistry/phys_chem/Eremin_teor_mat_himiya.pdf)** Глава 4, параграф 1. Закон действующих масс.
+1. **Теоретическая и Математическая химия** Глава 4, параграф 1. Закон действующих масс.
 2. Хомченко. Пособие по химии. Глава 4.
 
 ### Радиоактивный распад
@@ -184,7 +184,7 @@
 - Периодом полураспада и формулой для вычисления времени радиоактивного распада
 
 **Ресурсы**:
-1. **[Теоретическая и Математическая химия](https://cdn.bc-pf.org/resources/chemistry/phys_chem/Eremin_teor_mat_himiya.pdf)** Глава 2, параграф 2. Строение ядер атомов. Ядерные реакции.
+1. **Теоретическая и Математическая химия** Глава 2, параграф 2. Строение ядер атомов. Ядерные реакции.
 
 ### Химическое равновесие
 
@@ -218,10 +218,10 @@
 **Ресурсы**:
 1. [Википедия. Теория Гиллеспи](https://clck.ru/UH5Dq)
 2. [Видеолекция про типы решеток](https://www.youtube.com/watch?v=HCWwRh5CXYU)
-3. **Хаускрофт. Современный курс общей химии, том [1](https://cdn.bc-pf.org/resources/chemistry/inorg_chem/Housecroft_sovremennyi_kurs_obschei_himii_tom_1.pdf)**. Главы 6.7-6.13 и 7.1-7.3
+3. **Хаускрофт. Современный курс общей химии, том 1**. Главы 6.7-6.13 и 7.1-7.3
 
 ## Подготовка к республиканской олимпиаде
-Прежде чем ты начнешь решать республиканские олимпиады прошлых лет, позволь порекомендовать тебе неплохой учебник, в котором требуется и смекалка, и эрудиция, и энтузиазм. Речь идет о книге **[Задачи по химии. Будруджак](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Burujak_zadachi_po_himii.djvu)**.
+Прежде чем ты начнешь решать республиканские олимпиады прошлых лет, позволь порекомендовать тебе неплохой учебник, в котором требуется и смекалка, и эрудиция, и энтузиазм. Речь идет о книге **Задачи по химии. Будруджак**.
 
 Особенно рекомендуем следующие главы:
 - Глава 1. Химические уравнения. Формулы неорганических веществ
@@ -242,4 +242,4 @@
 
 Если же у тебя еще осталось время, взгляни на [Всероссийские олимпиады за 9 класс](https://vos.olimpiada.ru/archive/table/tasks/years/2018_2019/#table) (задачи первого тура и задачи из раздела неорганической химии второго тура).
 
-Кстати, пока ты будешь решать задачи, помни о классном справочнике **[Общая и неорганическая химия в таблицах, схемах, рисунках](https://cdn.bc-pf.org/resources/chemistry/problem_sets/Himiya_v_tablitsah.pdf)**. Если не можешь решить задачу, где присутствуют реакции какого-либо элемента, загляни в этот справочник — должно помочь!
+Кстати, пока ты будешь решать задачи, помни о классном справочнике **Общая и неорганическая химия в таблицах, схемах, рисунках**. Если не можешь решить задачу, где присутствуют реакции какого-либо элемента, загляни в этот справочник — должно помочь!
