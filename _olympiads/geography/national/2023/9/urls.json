@@ -1,22 +1,38 @@
 [
     {
-        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9-1-sol.pdf",
-        "title": "1 тур (Задачи и ответы)"
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo_1_tasks_rus.pdf",
+        "title": "1 тур (Задачи)"
     },
-	{
-        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo-2-tasks.pdf",
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9_2_tasks.pdf",
         "title": "2 тур (Задачи)"
     },
-	{
-        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo-2-tasks_kaz.pdf",
-        "title": "2 тур (Задачи на казахском)"
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9_3_tasks.pdf",
+        "title": "3 тур (Задачи)"
     },
-	{
-        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9-3-sol.pdf",
-        "title": "3 тур (Задачи и ответы)"
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo_1_tasks_kaz.pdf",
+        "title": "1 тур (Тапсырмалар)"
     },
-	{
-        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9-3-sol_kaz.pdf",
-        "title": "3 тур (Задачи и ответы на казахском)"
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9_2_sol.pdf",
+        "title": "2 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo9_3_sol.pdf",
+        "title": "3 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo_1_tasks_ms.pdf",
+        "title": "1 тур (Решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo_4_tasks.pdf",
+        "title": "4 тур (Задачи)"
+    },
+        {
+        "url": "https://cdn.bc-pf.org/olympiads/geography/national/final/2023/geo_4_sol.pdf",
+        "title": "4 тур (Решения)"
     }
 ]
