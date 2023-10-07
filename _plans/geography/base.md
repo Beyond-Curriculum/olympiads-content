@@ -65,10 +65,10 @@
 
     *Вывод*: Интернет-ресурсы сложно систематизировать и использовать максимально эффективно – есть риски нерационально потратить время. Тем не менее – Интернет до сих пор очень важен для подготовки во многих аспектах.
 *Источники*:
-    1.	Сайты типа seterra.com , geo.koltyrin.ru , sporcle.com – для оттачивания механических навыков (знания карты мира, флагов/гербов);
+    1.	Сайты типа [seterra.com] , [geo.koltyrin.ru] , [sporcle.com] – для оттачивания механических навыков (знания карты мира, флагов/гербов);
     2.	Игры-глобальные/исторические стратегии (Europa Universalis IV, Crusader Kings, Victoria, серия Total War) – могут отточить знание и ориентирование на карте до идеального уровня, но потребовать большое количество времени для этого;
-    3.	ourworldindata.org и www.statista.com – статистические порталы с таблицами и данными;
-    4.	www.earthdata.nasa.gov , https://earthexplorer.usgs.gov – спутниковые снимки;
+    3.	[ourworldindata.org] и [statista.com] – статистические порталы с таблицами и данными;
+    4.	[earthdata.nasa.gov] , [earthexplorer.usgs.gov] – спутниковые снимки;
     5.	Тематические страницы с картами и графиками (пример: [@kartahana] в Instagram);
     6.	[GeoCraft] - перевод заданий IGeO на казахский, мотивационные и методические тексты для начинающих олимпиадников по географии, медиаматериалы, картодиаграммы, инфографики и многое другое;
     7.	Ну, и разумеется, Beyond Curriculum – здесь можно найти задания прошлых годов, советы от опытных олимпиадников, многие нужные книги для подготовки и многое другое.
@@ -191,3 +191,10 @@
    [Geography. Course Companion]: <https://drive.google.com/file/d/1dlsYcsAS_Z5rT8NAkfUWmFPQlFIYcAY_/view?usp=drive_link>
    [Human Geography. Landscapes of Human Activities]: <https://drive.google.com/file/d/1WI1znHazgoeLM-9aKMJMHJKqSlXZSnkJ/view?usp=drive_link>
    [The Cultural Landscape: An Introduction to Human Geography]: <https://drive.google.com/file/d/1Ii-Cezft5Vqx32V7FBfBu-S_exZXclnu/view?usp=drive_link>
+   [seterra.com]:https://seterra.com
+   [geo.koltyrin.ru]:https://geo.koltyrin.ru
+   [sporcle.com]:https://sporcle.com
+   [ourworldindata.org]:https://ourworldindata.org
+   [statista.com]:https://statista.com
+   [earthdata.nasa.gov]:https://earthdata.nasa.gov
+   [earthexplorer.usgs.gov]:https://earthexplorer.usgs.gov
