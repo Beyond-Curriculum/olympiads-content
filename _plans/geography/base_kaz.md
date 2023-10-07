@@ -66,10 +66,10 @@
 
     *Қорытынды*: Интернет-ресурстарды жүйелеу және мүмкіндігінше тиімді пайдалану қиын - уақытты ұтымсыз жұмсау қаупі бар. Дегенмен - Интернет көптеген аспектілерде дайындық үшін әлі де өте маңызды.
 *Дереккөздер*:
-  1.  seterra.com , geo.koltyrin.ru , sporcle.com -механикалық дағдыларды шыңдау үшін (әлем картасын, туларды/елтаңбаларды білу);
+  1. [seterra.com] , [geo.koltyrin.ru] , [sporcle.com] -механикалық дағдыларды шыңдау үшін (әлем картасын, туларды/елтаңбаларды білу);
   2. Ойындар-жаһандық/Тарихи стратегиялар (Europa Universalis IV, Crusader Kings, Victoria, Total War сериясы) - картадағы білім мен бағдарлауды тамаша деңгейге дейін шыңдай алады, бірақ бұл үшін көп уақыт қажет;
-  3. ourworldindata.org және www.statista.com -кестелері мен деректері бар статистикалық порталдар;
-  4. www.earthdata.nasa.gov , https://earthexplorer.usgs.gov -спутниктік суреттер;
+  3. [ourworldindata.org] және [statista.com] -кестелері мен деректері бар статистикалық порталдар;
+  4. [earthdata.nasa.gov] , [earthexplorer.usgs.gov] -спутниктік суреттер;
   5. Карталар мен графиктері бар тақырыптық беттер (мысал: [@Kartahana] Instagram-да);
   6. [GeoCraft] - IGeO тапсырмаларын география, медиа материалдар, картодиаграммалар, инфографика және т. б. бойынша бастаушы олимпиадашыларға арналған қазақша, мотивациялық және әдістемелік мәтіндердің аудармаларын ұсынады;
   7. Әрине, Beyond Curriculum - сіз өткен жылдардағы тапсырмаларды, тәжірибелі олимпиадашылардың кеңестерін, дайындыққа қажетті көптеген кітаптарды және т.б. таба аласыз.
@@ -192,3 +192,10 @@
    [География]: https://drive.google.com/file/d/1fipXEJacbpE5zJk5A0CWw0xLUtQi1kiR/view?usp=drive_link
    [Наука]:https://drive.google.com/file/d/1TGiprpmOTuvpgo48pV9vI74HlRq5VqRZ/view?usp=drive_link
    [Детская]:https://drive.google.com/file/d/1_SConaxz4YwpnG_xfUQE12BQlryVwNZt/view?usp=drive_link
+   [seterra.com]:https:/seterra.com
+   [geo.koltyrin.ru]:https:/geo.koltyrin.ru
+   [sporcle.com]:https:/sporcle.com
+   [ourworldindata.org]:https:/ourworldindata.org
+   [statista.com]:https:/statista.com
+   [earthdata.nasa.gov]:https:/earthdata.nasa.gov
+   [earthexplorer.usgs.gov]:https:/earthexplorer.usgs.gov
