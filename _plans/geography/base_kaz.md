@@ -49,7 +49,7 @@
     *Қорытынды*: энциклопедиялар мектеп бағдарламасын меңгерген, бірақ әлі де ағылшын тілінде кітап оқуға жеткіліксіз ағылшын (бастаушы деңгейінде) деңгейі төмен адамдар үшін тамаша материал болып табылады. Олар Негізгі географиялық кітаптарды алмастыра алмайды, өйткені олар тек көптеген тақырыптармен таныстырады, бірақ оларды олимпиадалық география деңгейінде зерттеуге мүмкіндік бермейді. Мысалы, 9-сыныпқа дейінгі оқушылардың көпшілігі үшін энциклопедиямен танысуды ұсынуға болады.
     *Дереккөздер*:
     
-	  1. "Росмэн" сериясының энциклопедиялары ұсынылады ("География", "Наука", "Детская" және басқалар) – Интернетте кейбір энциклопедиялардың мысалдары бар.
+	  1. "Росмэн" сериясының энциклопедиялары ұсынылады (**"[География]"**, **"[Наука]"**, **"[Детская]"** және басқалар) – Интернетте кейбір энциклопедиялардың мысалдары бар.
 
 3.	**Интернет-ресурстар.** Бұл өте кең категория – ол негізінен ұзақ зерттеуді қажет етпейтін, бірақ ой-өрісті кеңейтуде өте пайдалы болуы мүмкін материалдарды қамтиды.
 * Интернет-ресурстардың артықшылықтары*:
@@ -189,9 +189,6 @@
    [Geography. Course Companion]: <https://drive.google.com/file/d/1dlsYcsAS_Z5rT8NAkfUWmFPQlFIYcAY_/view?usp=drive_link>
    [Human Geography. Landscapes of Human Activities]: <https://drive.google.com/file/d/1WI1znHazgoeLM-9aKMJMHJKqSlXZSnkJ/view?usp=drive_link>
    [The Cultural Landscape: An Introduction to Human Geography]: <https://drive.google.com/file/d/1Ii-Cezft5Vqx32V7FBfBu-S_exZXclnu/view?usp=drive_link>
-   [Meteorology Today]: https://drive.google.com/file/d/1POm5MotAwVAQvag55_7pKXEqrOVAakzy/view?usp=drive_link 
-   [Understanding Earth]: https://drive.google.com/file/d/11CoygjT0e9c0aZ6j-aSun7yJAylNOitR/view?usp=drive_link
-   [Essentials of Geology]: https://drive.google.com/file/d/1djAFyZnAqMz3ZELy1g1pZ7stjTq0k7op/view?usp=drive_link
-   [Geography. Course Companion]: <https://drive.google.com/file/d/1dlsYcsAS_Z5rT8NAkfUWmFPQlFIYcAY_/view?usp=drive_link>
-   [Human Geography. Landscapes of Human Activities]: <https://drive.google.com/file/d/1WI1znHazgoeLM-9aKMJMHJKqSlXZSnkJ/view?usp=drive_link>
-   [The Cultural Landscape: An Introduction to Human Geography]: <https://drive.google.com/file/d/1Ii-Cezft5Vqx32V7FBfBu-S_exZXclnu/view?usp=drive_link>
+   [География]: https://drive.google.com/file/d/1fipXEJacbpE5zJk5A0CWw0xLUtQi1kiR/view?usp=drive_link
+   [Наука]:https://drive.google.com/file/d/1TGiprpmOTuvpgo48pV9vI74HlRq5VqRZ/view?usp=drive_link
+   [Детская]:https://drive.google.com/file/d/1_SConaxz4YwpnG_xfUQE12BQlryVwNZt/view?usp=drive_link
