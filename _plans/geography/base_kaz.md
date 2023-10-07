@@ -192,10 +192,10 @@
    [География]: https://drive.google.com/file/d/1fipXEJacbpE5zJk5A0CWw0xLUtQi1kiR/view?usp=drive_link
    [Наука]:https://drive.google.com/file/d/1TGiprpmOTuvpgo48pV9vI74HlRq5VqRZ/view?usp=drive_link
    [Детская]:https://drive.google.com/file/d/1_SConaxz4YwpnG_xfUQE12BQlryVwNZt/view?usp=drive_link
-   [seterra.com]:https:/seterra.com
-   [geo.koltyrin.ru]:https:/geo.koltyrin.ru
-   [sporcle.com]:https:/sporcle.com
-   [ourworldindata.org]:https:/ourworldindata.org
-   [statista.com]:https:/statista.com
-   [earthdata.nasa.gov]:https:/earthdata.nasa.gov
-   [earthexplorer.usgs.gov]:https:/earthexplorer.usgs.gov
+   [seterra.com]:https://seterra.com
+   [geo.koltyrin.ru]:https://geo.koltyrin.ru
+   [sporcle.com]:https://sporcle.com
+   [ourworldindata.org]:https://ourworldindata.org
+   [statista.com]:https://statista.com
+   [earthdata.nasa.gov]:https://earthdata.nasa.gov
+   [earthexplorer.usgs.gov]:https://earthexplorer.usgs.gov
