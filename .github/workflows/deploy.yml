@@ -1,22 +1,18 @@
-name: Deploy
- 
+name: Dispatch Workflow
+
 on:
   push:
-    branches: [ main ]
- 
+    branches:
+      - main
+
 jobs:
-  deploy:
+  dispatch:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Deploy NodeJS app
-        uses: appleboy/ssh-action@v0.1.3
-        with:
-          host: ${{secrets.HOST}}
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
-          script: |
-            cd /var/www/olympiads-content/
-            git pull origin main
-            cd /var/www/olympiads/
-            npm run build
-            npm run export
+    - name: Trigger Workflow in olympiads Repository
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+        repository: Beyond-Curriculum/olympiads
+        event-type: build-website
