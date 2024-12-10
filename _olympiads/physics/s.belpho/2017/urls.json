@@ -1,6 +1,18 @@
 [
     {
-        "url": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2017/2017_problems.pdf",
+        "url": "https://cdn.bc-pf.org/olympiads/belpho/final/2017/phys9-1-tasks.pdf",
         "title": "Теория (задачи)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/belpho/final/2017/phys9-1-sol.pdf",
+        "title": "Теория (решения)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/belpho/final/2017/phys9-2-tasks.pdf",
+        "title": "Практика (задачи)"
+    },
+    {
+        "url": "https://cdn.bc-pf.org/olympiads/belpho/final/2017/phys9-2-sol.pdf",
+        "title": "Практика (решения)"
     }
 ]
