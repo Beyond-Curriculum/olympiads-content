@@ -4,16 +4,8 @@
         "title": "Область. 8 кл. Задания (рус)"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/oblast/bio7-junior-oblast-tasks-rus.pdf",
-        "title": "Область. 7 кл. Задания (рус)"    
-	},
-    {
         "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/oblast/bio8-junior-oblast-tasks-qaz.pdf",
         "title": "Область. 8 кл. Задания (каз)"
-    },
-    {
-        "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/oblast/bio7-junior-oblast-tasks-qaz.pdf",
-        "title": "Область. 7 кл. Задания (каз)"
     },
     {
         "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/oblast/bio8-junior-oblast-sol.pdf",
@@ -24,15 +16,7 @@
         "title": "Заключительный. 8 кл. Задания"
     },
     {
-        "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/final/bio7-tasks.pdf",
-        "title": "Заключительный. 7 кл. Задания"    
-	},
-    {
         "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/final/bio8-sol.pdf",
         "title": "Заключительный. 8 кл. Решения"
-    },
-    {
-        "url": "https://cdn.bc-pf.org/olympiads/biology/junior/2022/final/bio7-sol.pdf",
-        "title": "Заключительный. 7 кл. Решения"
     }
 ]
